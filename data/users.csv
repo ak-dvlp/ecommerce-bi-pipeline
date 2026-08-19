@@ -1,0 +1,1001 @@
+user_id,name,registration_date,city,country,device
+1001,Sergey,2025-04-22,Saint Petersburg,Russia,mobile_ios
+1002,Maria,2025-01-04,Chelyabinsk,Russia,mobile_ios
+1003,Artem,2025-12-16,Kazan,Russia,mobile_android
+1004,Olga,2025-11-27,Kazan,Russia,tablet
+1005,Dmitry,2025-11-14,Nizhny Novgorod,Russia,tablet
+1006,Sergey,2025-12-16,Omsk,Russia,mobile_ios
+1007,Natalia,2025-04-05,Nizhny Novgorod,Russia,mobile_ios
+1008,Ivan,2025-06-01,Samara,Russia,tablet
+1009,Sergey,2025-11-07,Chelyabinsk,Russia,desktop
+1010,Artem,2025-05-17,Omsk,Russia,tablet
+1011,Artem,2025-09-04,Yekaterinburg,Russia,tablet
+1012,Olga,2025-08-31,Saint Petersburg,Russia,mobile_ios
+1013,Dmitry,2025-01-31,Chelyabinsk,Russia,mobile_ios
+1014,Maria,2025-02-09,Nizhny Novgorod,Russia,desktop
+1015,Olga,2025-08-17,Moscow,Russia,desktop
+1016,Olga,2025-02-05,Omsk,Russia,mobile_android
+1017,Ivan,2025-08-11,Omsk,Russia,tablet
+1018,Elena,2025-01-06,Saint Petersburg,Russia,mobile_ios
+1019,Dmitry,2025-11-18,Novosibirsk,Russia,desktop
+1020,Anna,2025-08-08,Kazan,Russia,mobile_android
+1021,Olga,2025-03-16,Kazan,Russia,mobile_android
+1022,Yulia,2025-01-04,Moscow,Russia,mobile_ios
+1023,Elena,2025-12-01,Samara,Russia,mobile_ios
+1024,Anna,2025-05-14,Samara,Russia,mobile_android
+1025,Yulia,2025-04-28,Yekaterinburg,Russia,desktop
+1026,Dmitry,2025-04-04,Chelyabinsk,Russia,mobile_android
+1027,Alex,2025-03-03,Rostov-on-Don,Russia,tablet
+1028,Yulia,2025-07-13,Novosibirsk,Russia,tablet
+1029,Natalia,2025-12-01,Nizhny Novgorod,Russia,mobile_ios
+1030,Elena,2025-07-22,Rostov-on-Don,Russia,desktop
+1031,Yulia,2025-01-26,Rostov-on-Don,Russia,desktop
+1032,Petr,2025-06-22,Omsk,Russia,tablet
+1033,Alex,2025-10-27,Moscow,Russia,mobile_android
+1034,Artem,2025-05-13,Kazan,Russia,mobile_ios
+1035,Artem,2025-11-22,Yekaterinburg,Russia,mobile_android
+1036,Natalia,2025-04-28,Samara,Russia,mobile_android
+1037,Yulia,2025-11-20,Moscow,Russia,mobile_android
+1038,Yulia,2025-10-02,Omsk,Russia,desktop
+1039,Ivan,2025-07-31,Nizhny Novgorod,Russia,tablet
+1040,Yulia,2025-08-13,Yekaterinburg,Russia,desktop
+1041,Sergey,2025-01-20,Omsk,Russia,tablet
+1042,Maria,2025-04-23,Kazan,Russia,mobile_ios
+1043,Petr,2025-05-20,Kazan,Russia,mobile_ios
+1044,Ivan,2025-02-16,Kazan,Russia,mobile_android
+1045,Dmitry,2025-01-01,Moscow,Russia,tablet
+1046,Ivan,2025-03-31,Moscow,Russia,tablet
+1047,Sergey,2025-05-22,Samara,Russia,tablet
+1048,Dmitry,2025-11-16,Samara,Russia,mobile_android
+1049,Petr,2025-02-07,Nizhny Novgorod,Russia,mobile_android
+1050,Sergey,2025-10-20,Yekaterinburg,Russia,mobile_ios
+1051,Anna,2025-05-19,Saint Petersburg,Russia,desktop
+1052,Maria,2025-12-22,Saint Petersburg,Russia,tablet
+1053,Petr,2025-11-29,Omsk,Russia,tablet
+1054,Yulia,2025-09-16,Kazan,Russia,desktop
+1055,Anna,2025-06-10,Yekaterinburg,Russia,tablet
+1056,Natalia,2025-06-27,Rostov-on-Don,Russia,mobile_android
+1057,Petr,2025-01-10,Moscow,Russia,mobile_android
+1058,Natalia,2025-09-18,Chelyabinsk,Russia,tablet
+1059,Dmitry,2025-05-18,Novosibirsk,Russia,mobile_android
+1060,Anna,2025-06-21,Nizhny Novgorod,Russia,mobile_android
+1061,Maria,2025-01-13,Kazan,Russia,tablet
+1062,Yulia,2025-06-17,Kazan,Russia,mobile_ios
+1063,Yulia,2025-05-10,Kazan,Russia,desktop
+1064,Sergey,2025-03-25,Moscow,Russia,mobile_android
+1065,Yulia,2025-11-17,Moscow,Russia,mobile_ios
+1066,Olga,2025-11-15,Novosibirsk,Russia,mobile_android
+1067,Ivan,2025-04-11,Rostov-on-Don,Russia,mobile_android
+1068,Alex,2025-11-25,Yekaterinburg,Russia,desktop
+1069,Maria,2025-09-30,Kazan,Russia,mobile_android
+1070,Anna,2025-09-22,Saint Petersburg,Russia,desktop
+1071,Olga,2025-02-07,Samara,Russia,desktop
+1072,Maria,2025-04-04,Saint Petersburg,Russia,desktop
+1073,Anna,2025-04-05,Omsk,Russia,mobile_ios
+1074,Elena,2025-11-01,Saint Petersburg,Russia,tablet
+1075,Elena,2025-03-10,Omsk,Russia,mobile_ios
+1076,Natalia,2025-11-14,Chelyabinsk,Russia,tablet
+1077,Maria,2025-08-24,Samara,Russia,tablet
+1078,Elena,2025-11-30,Saint Petersburg,Russia,desktop
+1079,Anna,2025-05-17,Chelyabinsk,Russia,mobile_android
+1080,Natalia,2025-03-17,Nizhny Novgorod,Russia,desktop
+1081,Yulia,2025-02-04,Yekaterinburg,Russia,mobile_android
+1082,Anna,2025-01-01,Chelyabinsk,Russia,tablet
+1083,Natalia,2025-10-23,Yekaterinburg,Russia,desktop
+1084,Maria,2025-11-16,Saint Petersburg,Russia,mobile_android
+1085,Olga,2025-03-01,Rostov-on-Don,Russia,mobile_ios
+1086,Sergey,2025-11-16,Chelyabinsk,Russia,mobile_android
+1087,Yulia,2025-12-15,Samara,Russia,desktop
+1088,Petr,2025-11-24,Saint Petersburg,Russia,mobile_ios
+1089,Olga,2025-09-24,Kazan,Russia,mobile_android
+1090,Dmitry,2025-12-27,Moscow,Russia,mobile_android
+1091,Anna,2025-08-17,Chelyabinsk,Russia,mobile_android
+1092,Dmitry,2025-09-27,Samara,Russia,mobile_android
+1093,Olga,2025-11-12,Nizhny Novgorod,Russia,mobile_android
+1094,Natalia,2025-10-13,Kazan,Russia,mobile_ios
+1095,Petr,2025-10-18,Nizhny Novgorod,Russia,tablet
+1096,Yulia,2025-08-01,Saint Petersburg,Russia,mobile_ios
+1097,Yulia,2025-06-14,Moscow,Russia,mobile_ios
+1098,Yulia,2025-01-05,Chelyabinsk,Russia,mobile_ios
+1099,Petr,2025-12-05,Chelyabinsk,Russia,tablet
+1100,Alex,2025-03-19,Rostov-on-Don,Russia,desktop
+1101,Petr,2025-03-03,Rostov-on-Don,Russia,tablet
+1102,Sergey,2025-05-12,Saint Petersburg,Russia,mobile_ios
+1103,Petr,2025-03-30,Saint Petersburg,Russia,mobile_android
+1104,Olga,2025-08-25,Moscow,Russia,mobile_android
+1105,Alex,2025-02-11,Rostov-on-Don,Russia,mobile_ios
+1106,Yulia,2025-03-30,Samara,Russia,mobile_android
+1107,Olga,2025-10-23,Samara,Russia,mobile_ios
+1108,Olga,2025-11-24,Moscow,Russia,mobile_android
+1109,Artem,2025-10-22,Samara,Russia,tablet
+1110,Ivan,2025-04-14,Omsk,Russia,desktop
+1111,Alex,2025-01-14,Yekaterinburg,Russia,desktop
+1112,Olga,2025-10-15,Moscow,Russia,tablet
+1113,Ivan,2025-06-28,Moscow,Russia,tablet
+1114,Ivan,2025-05-05,Novosibirsk,Russia,mobile_ios
+1115,Alex,2025-12-19,Kazan,Russia,mobile_ios
+1116,Artem,2025-01-23,Kazan,Russia,mobile_ios
+1117,Dmitry,2025-03-04,Omsk,Russia,mobile_android
+1118,Natalia,2025-05-23,Rostov-on-Don,Russia,mobile_ios
+1119,Sergey,2025-06-02,Saint Petersburg,Russia,tablet
+1120,Natalia,2025-05-25,Saint Petersburg,Russia,desktop
+1121,Petr,2025-08-13,Nizhny Novgorod,Russia,mobile_android
+1122,Yulia,2025-11-05,Omsk,Russia,mobile_ios
+1123,Sergey,2025-04-14,Moscow,Russia,mobile_android
+1124,Petr,2025-04-14,Omsk,Russia,mobile_android
+1125,Olga,2025-02-08,Omsk,Russia,mobile_ios
+1126,Yulia,2025-07-17,Omsk,Russia,mobile_android
+1127,Anna,2025-05-14,Kazan,Russia,desktop
+1128,Alex,2025-03-08,Omsk,Russia,tablet
+1129,Sergey,2025-06-28,Yekaterinburg,Russia,tablet
+1130,Sergey,2025-02-11,Saint Petersburg,Russia,desktop
+1131,Olga,2025-01-15,Nizhny Novgorod,Russia,mobile_android
+1132,Dmitry,2025-04-21,Yekaterinburg,Russia,mobile_ios
+1133,Ivan,2025-06-06,Nizhny Novgorod,Russia,mobile_android
+1134,Yulia,2025-10-16,Novosibirsk,Russia,desktop
+1135,Olga,2025-08-19,Nizhny Novgorod,Russia,mobile_android
+1136,Elena,2025-06-06,Saint Petersburg,Russia,tablet
+1137,Artem,2025-02-07,Saint Petersburg,Russia,mobile_android
+1138,Ivan,2025-04-07,Omsk,Russia,desktop
+1139,Alex,2025-10-16,Chelyabinsk,Russia,tablet
+1140,Ivan,2025-09-11,Novosibirsk,Russia,mobile_android
+1141,Dmitry,2025-07-15,Moscow,Russia,mobile_android
+1142,Ivan,2025-03-27,Samara,Russia,tablet
+1143,Alex,2025-11-18,Nizhny Novgorod,Russia,mobile_ios
+1144,Dmitry,2025-01-10,Chelyabinsk,Russia,tablet
+1145,Natalia,2025-01-05,Omsk,Russia,mobile_ios
+1146,Sergey,2025-05-03,Kazan,Russia,desktop
+1147,Sergey,2025-11-26,Moscow,Russia,desktop
+1148,Artem,2025-12-19,Rostov-on-Don,Russia,tablet
+1149,Petr,2025-04-28,Chelyabinsk,Russia,tablet
+1150,Natalia,2025-10-21,Kazan,Russia,desktop
+1151,Natalia,2025-06-08,Novosibirsk,Russia,mobile_ios
+1152,Yulia,2025-10-30,Omsk,Russia,desktop
+1153,Ivan,2025-08-16,Moscow,Russia,tablet
+1154,Sergey,2025-12-31,Moscow,Russia,desktop
+1155,Alex,2025-08-04,Moscow,Russia,tablet
+1156,Maria,2025-07-03,Novosibirsk,Russia,tablet
+1157,Maria,2025-01-15,Nizhny Novgorod,Russia,desktop
+1158,Dmitry,2025-06-06,Rostov-on-Don,Russia,mobile_ios
+1159,Sergey,2025-05-16,Novosibirsk,Russia,mobile_android
+1160,Sergey,2025-09-18,Samara,Russia,desktop
+1161,Artem,2025-06-06,Rostov-on-Don,Russia,mobile_android
+1162,Maria,2025-02-16,Saint Petersburg,Russia,desktop
+1163,Sergey,2025-11-20,Omsk,Russia,mobile_android
+1164,Artem,2025-11-28,Novosibirsk,Russia,mobile_ios
+1165,Ivan,2025-06-22,Kazan,Russia,mobile_ios
+1166,Elena,2025-05-10,Rostov-on-Don,Russia,desktop
+1167,Yulia,2025-04-05,Samara,Russia,tablet
+1168,Anna,2025-04-25,Saint Petersburg,Russia,mobile_android
+1169,Natalia,2025-08-31,Nizhny Novgorod,Russia,tablet
+1170,Petr,2025-10-19,Kazan,Russia,tablet
+1171,Dmitry,2025-10-09,Rostov-on-Don,Russia,tablet
+1172,Elena,2025-10-26,Omsk,Russia,mobile_ios
+1173,Yulia,2025-10-10,Kazan,Russia,desktop
+1174,Yulia,2025-03-10,Saint Petersburg,Russia,desktop
+1175,Yulia,2025-05-28,Kazan,Russia,mobile_ios
+1176,Yulia,2025-01-11,Yekaterinburg,Russia,mobile_ios
+1177,Maria,2025-09-11,Chelyabinsk,Russia,desktop
+1178,Artem,2025-11-26,Nizhny Novgorod,Russia,tablet
+1179,Natalia,2025-12-26,Saint Petersburg,Russia,mobile_android
+1180,Sergey,2025-02-07,Kazan,Russia,mobile_android
+1181,Yulia,2025-05-14,Chelyabinsk,Russia,mobile_android
+1182,Petr,2025-07-19,Chelyabinsk,Russia,tablet
+1183,Sergey,2025-01-23,Kazan,Russia,desktop
+1184,Alex,2025-10-30,Omsk,Russia,mobile_ios
+1185,Alex,2025-12-12,Yekaterinburg,Russia,desktop
+1186,Petr,2025-10-29,Novosibirsk,Russia,tablet
+1187,Artem,2025-12-29,Yekaterinburg,Russia,mobile_ios
+1188,Petr,2025-08-06,Kazan,Russia,tablet
+1189,Maria,2025-05-21,Nizhny Novgorod,Russia,mobile_android
+1190,Petr,2025-04-14,Novosibirsk,Russia,mobile_android
+1191,Ivan,2025-07-29,Saint Petersburg,Russia,tablet
+1192,Sergey,2025-04-21,Yekaterinburg,Russia,mobile_ios
+1193,Elena,2025-04-14,Kazan,Russia,mobile_ios
+1194,Olga,2025-11-12,Yekaterinburg,Russia,desktop
+1195,Artem,2025-06-20,Novosibirsk,Russia,mobile_android
+1196,Petr,2025-12-22,Samara,Russia,desktop
+1197,Dmitry,2025-11-20,Rostov-on-Don,Russia,desktop
+1198,Alex,2025-05-13,Yekaterinburg,Russia,tablet
+1199,Ivan,2025-10-20,Saint Petersburg,Russia,tablet
+1200,Natalia,2025-11-24,Saint Petersburg,Russia,desktop
+1201,Yulia,2025-05-07,Moscow,Russia,mobile_android
+1202,Olga,2025-04-16,Yekaterinburg,Russia,tablet
+1203,Artem,2025-04-02,Rostov-on-Don,Russia,desktop
+1204,Elena,2025-10-14,Omsk,Russia,desktop
+1205,Olga,2025-02-20,Chelyabinsk,Russia,desktop
+1206,Petr,2025-01-29,Rostov-on-Don,Russia,desktop
+1207,Maria,2025-10-23,Chelyabinsk,Russia,desktop
+1208,Alex,2025-10-24,Chelyabinsk,Russia,desktop
+1209,Alex,2025-08-02,Samara,Russia,tablet
+1210,Natalia,2025-09-24,Moscow,Russia,mobile_android
+1211,Maria,2025-09-14,Rostov-on-Don,Russia,desktop
+1212,Yulia,2025-10-29,Rostov-on-Don,Russia,mobile_ios
+1213,Sergey,2025-04-11,Samara,Russia,tablet
+1214,Anna,2025-12-12,Yekaterinburg,Russia,tablet
+1215,Ivan,2025-04-20,Yekaterinburg,Russia,desktop
+1216,Alex,2025-07-01,Yekaterinburg,Russia,tablet
+1217,Dmitry,2025-11-09,Nizhny Novgorod,Russia,desktop
+1218,Alex,2025-01-01,Chelyabinsk,Russia,mobile_android
+1219,Olga,2025-11-15,Nizhny Novgorod,Russia,mobile_android
+1220,Alex,2025-02-24,Moscow,Russia,tablet
+1221,Artem,2025-05-29,Samara,Russia,tablet
+1222,Alex,2025-11-05,Rostov-on-Don,Russia,mobile_ios
+1223,Anna,2025-05-17,Chelyabinsk,Russia,tablet
+1224,Anna,2025-07-21,Nizhny Novgorod,Russia,mobile_ios
+1225,Yulia,2025-11-09,Nizhny Novgorod,Russia,mobile_android
+1226,Elena,2025-04-27,Kazan,Russia,mobile_android
+1227,Sergey,2025-06-03,Nizhny Novgorod,Russia,desktop
+1228,Dmitry,2025-10-18,Omsk,Russia,mobile_android
+1229,Alex,2025-03-04,Rostov-on-Don,Russia,mobile_ios
+1230,Alex,2025-09-01,Omsk,Russia,tablet
+1231,Ivan,2025-01-25,Rostov-on-Don,Russia,desktop
+1232,Anna,2025-03-31,Samara,Russia,mobile_ios
+1233,Dmitry,2025-03-16,Rostov-on-Don,Russia,tablet
+1234,Yulia,2025-10-21,Omsk,Russia,desktop
+1235,Natalia,2025-07-29,Rostov-on-Don,Russia,mobile_android
+1236,Elena,2025-12-13,Samara,Russia,mobile_ios
+1237,Sergey,2025-01-17,Samara,Russia,tablet
+1238,Maria,2025-05-08,Moscow,Russia,desktop
+1239,Sergey,2025-12-30,Rostov-on-Don,Russia,desktop
+1240,Artem,2025-09-08,Kazan,Russia,mobile_android
+1241,Olga,2025-06-28,Yekaterinburg,Russia,tablet
+1242,Artem,2025-07-01,Saint Petersburg,Russia,mobile_android
+1243,Alex,2025-06-01,Samara,Russia,mobile_android
+1244,Elena,2025-01-25,Novosibirsk,Russia,tablet
+1245,Olga,2025-06-29,Yekaterinburg,Russia,tablet
+1246,Dmitry,2025-07-17,Chelyabinsk,Russia,tablet
+1247,Maria,2025-12-10,Rostov-on-Don,Russia,mobile_ios
+1248,Anna,2025-06-10,Omsk,Russia,tablet
+1249,Elena,2025-06-26,Saint Petersburg,Russia,desktop
+1250,Elena,2025-10-12,Novosibirsk,Russia,mobile_android
+1251,Artem,2025-03-04,Yekaterinburg,Russia,mobile_ios
+1252,Alex,2025-05-30,Rostov-on-Don,Russia,tablet
+1253,Petr,2025-06-03,Moscow,Russia,mobile_ios
+1254,Yulia,2025-06-05,Chelyabinsk,Russia,tablet
+1255,Artem,2025-02-18,Saint Petersburg,Russia,mobile_ios
+1256,Elena,2025-12-03,Kazan,Russia,mobile_android
+1257,Ivan,2025-03-25,Moscow,Russia,mobile_android
+1258,Maria,2025-12-27,Novosibirsk,Russia,desktop
+1259,Yulia,2025-06-26,Saint Petersburg,Russia,desktop
+1260,Artem,2025-05-28,Moscow,Russia,tablet
+1261,Maria,2025-04-28,Chelyabinsk,Russia,mobile_android
+1262,Ivan,2025-12-08,Kazan,Russia,mobile_ios
+1263,Natalia,2025-03-04,Moscow,Russia,mobile_ios
+1264,Ivan,2025-07-08,Nizhny Novgorod,Russia,mobile_ios
+1265,Ivan,2025-12-26,Kazan,Russia,desktop
+1266,Maria,2025-02-18,Novosibirsk,Russia,mobile_ios
+1267,Sergey,2025-11-23,Chelyabinsk,Russia,desktop
+1268,Maria,2025-09-14,Rostov-on-Don,Russia,desktop
+1269,Petr,2025-08-12,Omsk,Russia,tablet
+1270,Alex,2025-05-21,Omsk,Russia,mobile_ios
+1271,Olga,2025-08-03,Omsk,Russia,mobile_ios
+1272,Sergey,2025-07-30,Saint Petersburg,Russia,mobile_android
+1273,Anna,2025-11-14,Novosibirsk,Russia,tablet
+1274,Olga,2025-02-01,Chelyabinsk,Russia,mobile_android
+1275,Alex,2025-06-07,Kazan,Russia,tablet
+1276,Artem,2025-10-12,Saint Petersburg,Russia,mobile_ios
+1277,Yulia,2025-11-01,Novosibirsk,Russia,desktop
+1278,Petr,2025-10-13,Rostov-on-Don,Russia,desktop
+1279,Petr,2025-05-24,Nizhny Novgorod,Russia,desktop
+1280,Anna,2025-01-19,Chelyabinsk,Russia,desktop
+1281,Sergey,2025-01-18,Omsk,Russia,desktop
+1282,Natalia,2025-09-14,Moscow,Russia,mobile_android
+1283,Ivan,2025-03-19,Chelyabinsk,Russia,tablet
+1284,Sergey,2025-06-24,Samara,Russia,mobile_ios
+1285,Yulia,2025-07-13,Novosibirsk,Russia,mobile_android
+1286,Natalia,2025-04-23,Yekaterinburg,Russia,tablet
+1287,Petr,2025-04-24,Rostov-on-Don,Russia,desktop
+1288,Maria,2025-08-10,Nizhny Novgorod,Russia,tablet
+1289,Yulia,2025-06-15,Rostov-on-Don,Russia,tablet
+1290,Alex,2025-11-15,Chelyabinsk,Russia,desktop
+1291,Anna,2025-05-12,Yekaterinburg,Russia,desktop
+1292,Alex,2025-09-21,Samara,Russia,desktop
+1293,Yulia,2025-02-24,Kazan,Russia,mobile_ios
+1294,Dmitry,2025-12-25,Moscow,Russia,desktop
+1295,Dmitry,2025-05-11,Yekaterinburg,Russia,mobile_ios
+1296,Artem,2025-10-15,Novosibirsk,Russia,desktop
+1297,Sergey,2025-09-23,Omsk,Russia,mobile_ios
+1298,Petr,2025-06-11,Samara,Russia,tablet
+1299,Petr,2025-03-28,Moscow,Russia,mobile_android
+1300,Ivan,2025-02-24,Nizhny Novgorod,Russia,tablet
+1301,Ivan,2025-10-15,Omsk,Russia,tablet
+1302,Ivan,2025-06-27,Chelyabinsk,Russia,desktop
+1303,Maria,2025-12-15,Yekaterinburg,Russia,mobile_ios
+1304,Olga,2025-01-08,Moscow,Russia,mobile_android
+1305,Elena,2025-11-17,Saint Petersburg,Russia,desktop
+1306,Olga,2025-11-09,Kazan,Russia,desktop
+1307,Alex,2025-09-04,Kazan,Russia,desktop
+1308,Olga,2025-11-19,Samara,Russia,tablet
+1309,Maria,2025-09-12,Nizhny Novgorod,Russia,mobile_ios
+1310,Artem,2025-11-24,Samara,Russia,mobile_ios
+1311,Alex,2025-02-23,Saint Petersburg,Russia,mobile_android
+1312,Olga,2025-09-06,Novosibirsk,Russia,mobile_ios
+1313,Maria,2025-08-27,Nizhny Novgorod,Russia,mobile_ios
+1314,Elena,2025-08-17,Rostov-on-Don,Russia,desktop
+1315,Olga,2025-03-08,Novosibirsk,Russia,desktop
+1316,Maria,2025-02-20,Nizhny Novgorod,Russia,tablet
+1317,Ivan,2025-04-07,Nizhny Novgorod,Russia,desktop
+1318,Petr,2025-04-02,Saint Petersburg,Russia,desktop
+1319,Ivan,2025-09-21,Chelyabinsk,Russia,desktop
+1320,Petr,2025-10-18,Saint Petersburg,Russia,desktop
+1321,Anna,2025-04-06,Nizhny Novgorod,Russia,tablet
+1322,Anna,2025-03-29,Moscow,Russia,desktop
+1323,Anna,2025-03-19,Novosibirsk,Russia,mobile_android
+1324,Elena,2025-10-15,Saint Petersburg,Russia,mobile_android
+1325,Ivan,2025-04-30,Chelyabinsk,Russia,mobile_android
+1326,Petr,2025-10-29,Yekaterinburg,Russia,mobile_android
+1327,Maria,2025-06-14,Samara,Russia,desktop
+1328,Alex,2025-07-01,Nizhny Novgorod,Russia,mobile_android
+1329,Maria,2025-08-11,Rostov-on-Don,Russia,desktop
+1330,Alex,2025-11-07,Yekaterinburg,Russia,tablet
+1331,Dmitry,2025-01-07,Kazan,Russia,mobile_android
+1332,Maria,2025-11-26,Omsk,Russia,mobile_ios
+1333,Olga,2025-09-20,Chelyabinsk,Russia,mobile_android
+1334,Olga,2025-06-10,Rostov-on-Don,Russia,mobile_android
+1335,Sergey,2025-05-31,Omsk,Russia,desktop
+1336,Ivan,2025-03-26,Chelyabinsk,Russia,mobile_android
+1337,Alex,2025-05-27,Moscow,Russia,mobile_ios
+1338,Alex,2025-04-22,Samara,Russia,desktop
+1339,Yulia,2025-02-05,Yekaterinburg,Russia,desktop
+1340,Artem,2025-10-12,Novosibirsk,Russia,tablet
+1341,Ivan,2025-07-07,Chelyabinsk,Russia,tablet
+1342,Elena,2025-03-23,Novosibirsk,Russia,mobile_android
+1343,Sergey,2025-01-02,Samara,Russia,tablet
+1344,Elena,2025-10-30,Nizhny Novgorod,Russia,tablet
+1345,Elena,2025-07-16,Kazan,Russia,tablet
+1346,Elena,2025-01-11,Yekaterinburg,Russia,desktop
+1347,Ivan,2025-08-22,Samara,Russia,desktop
+1348,Elena,2025-07-14,Samara,Russia,desktop
+1349,Olga,2025-04-29,Moscow,Russia,tablet
+1350,Artem,2025-01-20,Omsk,Russia,desktop
+1351,Artem,2025-09-18,Kazan,Russia,tablet
+1352,Anna,2025-10-20,Yekaterinburg,Russia,desktop
+1353,Dmitry,2025-09-13,Nizhny Novgorod,Russia,desktop
+1354,Alex,2025-08-10,Nizhny Novgorod,Russia,mobile_ios
+1355,Yulia,2025-08-14,Saint Petersburg,Russia,mobile_android
+1356,Alex,2025-02-22,Samara,Russia,tablet
+1357,Dmitry,2025-12-21,Chelyabinsk,Russia,mobile_ios
+1358,Yulia,2025-12-08,Moscow,Russia,desktop
+1359,Ivan,2025-12-30,Kazan,Russia,tablet
+1360,Maria,2025-10-07,Nizhny Novgorod,Russia,desktop
+1361,Ivan,2025-03-22,Yekaterinburg,Russia,mobile_android
+1362,Alex,2025-07-21,Saint Petersburg,Russia,mobile_ios
+1363,Alex,2025-06-07,Yekaterinburg,Russia,mobile_android
+1364,Yulia,2025-04-30,Moscow,Russia,mobile_ios
+1365,Yulia,2025-02-28,Chelyabinsk,Russia,desktop
+1366,Dmitry,2025-08-03,Saint Petersburg,Russia,mobile_android
+1367,Elena,2025-05-08,Saint Petersburg,Russia,mobile_android
+1368,Ivan,2025-08-12,Omsk,Russia,desktop
+1369,Yulia,2025-07-28,Kazan,Russia,mobile_android
+1370,Petr,2025-04-25,Saint Petersburg,Russia,tablet
+1371,Dmitry,2025-07-28,Omsk,Russia,mobile_ios
+1372,Olga,2025-01-14,Omsk,Russia,mobile_ios
+1373,Alex,2025-01-09,Moscow,Russia,mobile_ios
+1374,Dmitry,2025-02-09,Novosibirsk,Russia,tablet
+1375,Ivan,2025-08-25,Yekaterinburg,Russia,mobile_ios
+1376,Yulia,2025-10-08,Chelyabinsk,Russia,desktop
+1377,Alex,2025-12-25,Rostov-on-Don,Russia,mobile_android
+1378,Maria,2025-07-20,Yekaterinburg,Russia,tablet
+1379,Dmitry,2025-09-03,Saint Petersburg,Russia,mobile_ios
+1380,Sergey,2025-10-05,Chelyabinsk,Russia,desktop
+1381,Alex,2025-08-23,Nizhny Novgorod,Russia,mobile_android
+1382,Ivan,2025-01-04,Novosibirsk,Russia,mobile_android
+1383,Anna,2025-06-03,Nizhny Novgorod,Russia,tablet
+1384,Petr,2025-01-29,Nizhny Novgorod,Russia,tablet
+1385,Natalia,2025-04-19,Kazan,Russia,tablet
+1386,Elena,2025-04-08,Yekaterinburg,Russia,desktop
+1387,Natalia,2025-08-03,Rostov-on-Don,Russia,desktop
+1388,Ivan,2025-10-20,Moscow,Russia,tablet
+1389,Olga,2025-03-16,Rostov-on-Don,Russia,mobile_ios
+1390,Olga,2025-11-22,Nizhny Novgorod,Russia,mobile_android
+1391,Anna,2025-05-26,Saint Petersburg,Russia,mobile_android
+1392,Elena,2025-05-08,Novosibirsk,Russia,desktop
+1393,Sergey,2025-12-07,Samara,Russia,mobile_android
+1394,Anna,2025-02-11,Rostov-on-Don,Russia,mobile_ios
+1395,Artem,2025-12-22,Nizhny Novgorod,Russia,mobile_android
+1396,Natalia,2025-02-10,Novosibirsk,Russia,desktop
+1397,Anna,2025-02-03,Chelyabinsk,Russia,desktop
+1398,Natalia,2025-01-17,Yekaterinburg,Russia,mobile_ios
+1399,Alex,2025-06-14,Omsk,Russia,mobile_ios
+1400,Olga,2025-06-02,Kazan,Russia,mobile_android
+1401,Alex,2025-03-17,Novosibirsk,Russia,mobile_android
+1402,Petr,2025-03-28,Saint Petersburg,Russia,desktop
+1403,Artem,2025-04-27,Saint Petersburg,Russia,mobile_ios
+1404,Elena,2025-12-28,Novosibirsk,Russia,mobile_ios
+1405,Sergey,2025-12-08,Saint Petersburg,Russia,mobile_ios
+1406,Natalia,2025-01-27,Yekaterinburg,Russia,mobile_android
+1407,Sergey,2025-11-09,Saint Petersburg,Russia,mobile_ios
+1408,Natalia,2025-10-14,Rostov-on-Don,Russia,desktop
+1409,Ivan,2025-05-14,Omsk,Russia,desktop
+1410,Anna,2025-08-07,Saint Petersburg,Russia,mobile_android
+1411,Petr,2025-06-17,Omsk,Russia,tablet
+1412,Olga,2025-04-08,Nizhny Novgorod,Russia,mobile_android
+1413,Yulia,2025-09-25,Moscow,Russia,tablet
+1414,Natalia,2025-08-25,Yekaterinburg,Russia,mobile_ios
+1415,Sergey,2025-11-05,Moscow,Russia,mobile_android
+1416,Petr,2025-06-22,Nizhny Novgorod,Russia,desktop
+1417,Maria,2025-07-09,Yekaterinburg,Russia,mobile_ios
+1418,Maria,2025-05-02,Novosibirsk,Russia,desktop
+1419,Alex,2025-02-15,Novosibirsk,Russia,mobile_ios
+1420,Olga,2025-03-05,Omsk,Russia,mobile_android
+1421,Yulia,2025-05-10,Nizhny Novgorod,Russia,tablet
+1422,Ivan,2025-11-06,Omsk,Russia,mobile_ios
+1423,Sergey,2025-12-29,Kazan,Russia,tablet
+1424,Yulia,2025-07-12,Saint Petersburg,Russia,mobile_ios
+1425,Anna,2025-11-03,Samara,Russia,desktop
+1426,Anna,2025-06-30,Kazan,Russia,desktop
+1427,Sergey,2025-10-19,Saint Petersburg,Russia,mobile_ios
+1428,Elena,2025-10-09,Yekaterinburg,Russia,tablet
+1429,Ivan,2025-01-29,Omsk,Russia,mobile_android
+1430,Petr,2025-05-29,Yekaterinburg,Russia,mobile_android
+1431,Natalia,2025-09-24,Yekaterinburg,Russia,desktop
+1432,Elena,2025-10-23,Saint Petersburg,Russia,mobile_android
+1433,Natalia,2025-01-11,Nizhny Novgorod,Russia,desktop
+1434,Natalia,2025-06-13,Saint Petersburg,Russia,mobile_android
+1435,Elena,2025-04-23,Chelyabinsk,Russia,mobile_ios
+1436,Alex,2025-07-06,Novosibirsk,Russia,desktop
+1437,Maria,2025-10-22,Novosibirsk,Russia,desktop
+1438,Natalia,2025-08-20,Kazan,Russia,mobile_ios
+1439,Elena,2025-08-15,Novosibirsk,Russia,desktop
+1440,Elena,2025-11-06,Saint Petersburg,Russia,mobile_android
+1441,Artem,2025-04-08,Rostov-on-Don,Russia,mobile_android
+1442,Yulia,2025-02-24,Omsk,Russia,desktop
+1443,Dmitry,2025-04-21,Saint Petersburg,Russia,mobile_android
+1444,Alex,2025-06-01,Saint Petersburg,Russia,tablet
+1445,Olga,2025-09-03,Samara,Russia,desktop
+1446,Dmitry,2025-03-10,Omsk,Russia,mobile_ios
+1447,Yulia,2025-11-08,Chelyabinsk,Russia,tablet
+1448,Yulia,2025-10-16,Novosibirsk,Russia,desktop
+1449,Yulia,2025-09-07,Omsk,Russia,mobile_ios
+1450,Dmitry,2025-02-05,Novosibirsk,Russia,mobile_android
+1451,Sergey,2025-08-27,Kazan,Russia,mobile_ios
+1452,Maria,2025-05-28,Omsk,Russia,tablet
+1453,Elena,2025-08-15,Novosibirsk,Russia,mobile_android
+1454,Maria,2025-09-01,Chelyabinsk,Russia,desktop
+1455,Ivan,2025-12-03,Moscow,Russia,mobile_android
+1456,Sergey,2025-12-31,Yekaterinburg,Russia,desktop
+1457,Olga,2025-07-20,Yekaterinburg,Russia,desktop
+1458,Maria,2025-06-03,Chelyabinsk,Russia,mobile_ios
+1459,Anna,2025-03-14,Samara,Russia,mobile_ios
+1460,Yulia,2025-07-20,Moscow,Russia,mobile_ios
+1461,Natalia,2025-10-23,Kazan,Russia,tablet
+1462,Ivan,2025-01-17,Chelyabinsk,Russia,tablet
+1463,Alex,2025-05-09,Yekaterinburg,Russia,mobile_ios
+1464,Olga,2025-08-05,Yekaterinburg,Russia,tablet
+1465,Ivan,2025-03-02,Yekaterinburg,Russia,mobile_android
+1466,Yulia,2025-04-14,Nizhny Novgorod,Russia,mobile_android
+1467,Natalia,2025-02-11,Chelyabinsk,Russia,tablet
+1468,Sergey,2025-01-25,Saint Petersburg,Russia,tablet
+1469,Natalia,2025-02-08,Kazan,Russia,mobile_android
+1470,Dmitry,2025-10-18,Yekaterinburg,Russia,desktop
+1471,Natalia,2025-05-11,Novosibirsk,Russia,mobile_android
+1472,Dmitry,2025-08-17,Chelyabinsk,Russia,mobile_android
+1473,Sergey,2025-04-18,Nizhny Novgorod,Russia,tablet
+1474,Petr,2025-06-21,Chelyabinsk,Russia,mobile_android
+1475,Yulia,2025-04-12,Kazan,Russia,tablet
+1476,Dmitry,2025-12-20,Nizhny Novgorod,Russia,tablet
+1477,Alex,2025-01-12,Kazan,Russia,mobile_ios
+1478,Natalia,2025-10-02,Chelyabinsk,Russia,mobile_android
+1479,Natalia,2025-04-11,Saint Petersburg,Russia,desktop
+1480,Alex,2025-02-13,Kazan,Russia,mobile_ios
+1481,Anna,2025-11-01,Nizhny Novgorod,Russia,tablet
+1482,Elena,2025-01-17,Nizhny Novgorod,Russia,tablet
+1483,Petr,2025-11-26,Kazan,Russia,desktop
+1484,Olga,2025-02-26,Rostov-on-Don,Russia,tablet
+1485,Dmitry,2025-11-07,Chelyabinsk,Russia,mobile_android
+1486,Alex,2025-10-30,Rostov-on-Don,Russia,mobile_ios
+1487,Sergey,2025-01-12,Samara,Russia,tablet
+1488,Dmitry,2025-11-14,Chelyabinsk,Russia,tablet
+1489,Elena,2025-03-21,Kazan,Russia,desktop
+1490,Sergey,2025-08-04,Moscow,Russia,mobile_android
+1491,Ivan,2025-12-05,Kazan,Russia,tablet
+1492,Yulia,2025-09-21,Rostov-on-Don,Russia,desktop
+1493,Natalia,2025-05-29,Saint Petersburg,Russia,tablet
+1494,Ivan,2025-03-22,Kazan,Russia,desktop
+1495,Dmitry,2025-08-03,Kazan,Russia,desktop
+1496,Elena,2025-07-17,Saint Petersburg,Russia,mobile_android
+1497,Petr,2025-07-19,Kazan,Russia,tablet
+1498,Yulia,2025-01-25,Yekaterinburg,Russia,mobile_android
+1499,Dmitry,2025-03-30,Moscow,Russia,desktop
+1500,Alex,2025-09-25,Novosibirsk,Russia,mobile_ios
+1501,Maria,2025-05-23,Moscow,Russia,tablet
+1502,Dmitry,2025-02-28,Kazan,Russia,mobile_ios
+1503,Yulia,2025-12-31,Yekaterinburg,Russia,tablet
+1504,Natalia,2025-01-26,Chelyabinsk,Russia,mobile_android
+1505,Natalia,2025-02-16,Kazan,Russia,mobile_android
+1506,Dmitry,2025-10-15,Rostov-on-Don,Russia,mobile_android
+1507,Sergey,2025-09-23,Yekaterinburg,Russia,mobile_android
+1508,Maria,2025-01-16,Saint Petersburg,Russia,mobile_android
+1509,Alex,2025-07-18,Yekaterinburg,Russia,mobile_ios
+1510,Dmitry,2025-10-09,Saint Petersburg,Russia,mobile_android
+1511,Sergey,2025-03-27,Samara,Russia,desktop
+1512,Natalia,2025-09-07,Novosibirsk,Russia,desktop
+1513,Natalia,2025-09-27,Omsk,Russia,mobile_ios
+1514,Elena,2025-12-01,Yekaterinburg,Russia,tablet
+1515,Dmitry,2025-04-27,Nizhny Novgorod,Russia,desktop
+1516,Maria,2025-01-07,Rostov-on-Don,Russia,tablet
+1517,Anna,2025-05-17,Kazan,Russia,mobile_ios
+1518,Maria,2025-06-25,Rostov-on-Don,Russia,tablet
+1519,Natalia,2025-11-24,Moscow,Russia,tablet
+1520,Natalia,2025-11-11,Omsk,Russia,tablet
+1521,Ivan,2025-08-03,Moscow,Russia,tablet
+1522,Natalia,2025-03-23,Samara,Russia,mobile_ios
+1523,Alex,2025-08-11,Omsk,Russia,desktop
+1524,Olga,2025-04-13,Omsk,Russia,mobile_android
+1525,Dmitry,2025-09-30,Moscow,Russia,tablet
+1526,Maria,2025-01-14,Saint Petersburg,Russia,desktop
+1527,Olga,2025-06-08,Moscow,Russia,desktop
+1528,Sergey,2025-06-01,Rostov-on-Don,Russia,mobile_ios
+1529,Anna,2025-04-18,Saint Petersburg,Russia,desktop
+1530,Alex,2025-07-07,Rostov-on-Don,Russia,mobile_ios
+1531,Yulia,2025-10-28,Samara,Russia,tablet
+1532,Artem,2025-04-08,Kazan,Russia,tablet
+1533,Maria,2025-05-11,Chelyabinsk,Russia,mobile_android
+1534,Olga,2025-10-20,Saint Petersburg,Russia,mobile_android
+1535,Yulia,2025-06-20,Samara,Russia,mobile_android
+1536,Anna,2025-07-02,Nizhny Novgorod,Russia,desktop
+1537,Ivan,2025-12-30,Samara,Russia,tablet
+1538,Yulia,2025-02-08,Moscow,Russia,mobile_ios
+1539,Alex,2025-01-15,Moscow,Russia,mobile_android
+1540,Alex,2025-01-04,Chelyabinsk,Russia,mobile_ios
+1541,Ivan,2025-12-15,Samara,Russia,mobile_ios
+1542,Artem,2025-07-29,Novosibirsk,Russia,mobile_android
+1543,Dmitry,2025-06-10,Kazan,Russia,tablet
+1544,Yulia,2025-01-16,Moscow,Russia,mobile_android
+1545,Ivan,2025-04-18,Chelyabinsk,Russia,mobile_ios
+1546,Alex,2025-11-07,Kazan,Russia,mobile_android
+1547,Alex,2025-08-15,Samara,Russia,mobile_ios
+1548,Olga,2025-06-19,Samara,Russia,mobile_ios
+1549,Natalia,2025-02-03,Omsk,Russia,mobile_android
+1550,Artem,2025-09-08,Chelyabinsk,Russia,desktop
+1551,Yulia,2025-09-04,Moscow,Russia,mobile_android
+1552,Yulia,2025-09-26,Novosibirsk,Russia,desktop
+1553,Anna,2025-05-21,Samara,Russia,mobile_ios
+1554,Ivan,2025-10-01,Novosibirsk,Russia,mobile_ios
+1555,Anna,2025-04-06,Samara,Russia,desktop
+1556,Ivan,2025-08-15,Moscow,Russia,mobile_ios
+1557,Sergey,2025-02-08,Kazan,Russia,desktop
+1558,Alex,2025-10-29,Yekaterinburg,Russia,desktop
+1559,Natalia,2025-01-29,Kazan,Russia,mobile_ios
+1560,Olga,2025-11-14,Samara,Russia,tablet
+1561,Natalia,2025-09-02,Rostov-on-Don,Russia,desktop
+1562,Natalia,2025-08-24,Yekaterinburg,Russia,mobile_android
+1563,Natalia,2025-07-04,Yekaterinburg,Russia,mobile_android
+1564,Anna,2025-09-29,Novosibirsk,Russia,mobile_ios
+1565,Ivan,2025-08-24,Chelyabinsk,Russia,tablet
+1566,Petr,2025-08-27,Novosibirsk,Russia,mobile_ios
+1567,Sergey,2025-09-23,Novosibirsk,Russia,tablet
+1568,Maria,2025-12-25,Rostov-on-Don,Russia,desktop
+1569,Natalia,2025-12-06,Kazan,Russia,desktop
+1570,Dmitry,2025-03-06,Kazan,Russia,desktop
+1571,Anna,2025-06-26,Nizhny Novgorod,Russia,desktop
+1572,Artem,2025-01-03,Samara,Russia,mobile_android
+1573,Olga,2025-05-22,Rostov-on-Don,Russia,mobile_android
+1574,Maria,2025-06-07,Nizhny Novgorod,Russia,mobile_ios
+1575,Petr,2025-11-20,Moscow,Russia,tablet
+1576,Dmitry,2025-05-26,Samara,Russia,desktop
+1577,Petr,2025-10-20,Samara,Russia,desktop
+1578,Maria,2025-06-02,Omsk,Russia,tablet
+1579,Natalia,2025-07-12,Omsk,Russia,tablet
+1580,Dmitry,2025-03-14,Saint Petersburg,Russia,mobile_ios
+1581,Petr,2025-11-01,Saint Petersburg,Russia,tablet
+1582,Olga,2025-12-10,Novosibirsk,Russia,desktop
+1583,Ivan,2025-05-20,Moscow,Russia,desktop
+1584,Alex,2025-07-06,Yekaterinburg,Russia,desktop
+1585,Ivan,2025-10-20,Yekaterinburg,Russia,desktop
+1586,Maria,2025-03-02,Omsk,Russia,desktop
+1587,Anna,2025-07-17,Omsk,Russia,mobile_ios
+1588,Alex,2025-10-22,Omsk,Russia,desktop
+1589,Sergey,2025-11-15,Rostov-on-Don,Russia,mobile_ios
+1590,Olga,2025-10-29,Chelyabinsk,Russia,desktop
+1591,Sergey,2025-12-10,Saint Petersburg,Russia,mobile_android
+1592,Dmitry,2025-01-11,Rostov-on-Don,Russia,mobile_android
+1593,Yulia,2025-03-03,Kazan,Russia,mobile_android
+1594,Alex,2025-11-29,Yekaterinburg,Russia,mobile_android
+1595,Sergey,2025-08-14,Samara,Russia,mobile_ios
+1596,Sergey,2025-06-02,Saint Petersburg,Russia,mobile_ios
+1597,Petr,2025-07-18,Nizhny Novgorod,Russia,tablet
+1598,Ivan,2025-02-21,Kazan,Russia,desktop
+1599,Petr,2025-09-17,Saint Petersburg,Russia,mobile_android
+1600,Alex,2025-02-28,Rostov-on-Don,Russia,mobile_ios
+1601,Alex,2025-03-13,Moscow,Russia,desktop
+1602,Maria,2025-05-28,Samara,Russia,desktop
+1603,Petr,2025-12-15,Saint Petersburg,Russia,mobile_ios
+1604,Elena,2025-03-04,Chelyabinsk,Russia,mobile_android
+1605,Artem,2025-11-06,Omsk,Russia,tablet
+1606,Ivan,2025-08-31,Omsk,Russia,desktop
+1607,Alex,2025-11-26,Samara,Russia,tablet
+1608,Maria,2025-04-17,Rostov-on-Don,Russia,mobile_android
+1609,Yulia,2025-08-14,Omsk,Russia,mobile_android
+1610,Petr,2025-11-09,Saint Petersburg,Russia,tablet
+1611,Ivan,2025-08-06,Nizhny Novgorod,Russia,mobile_android
+1612,Yulia,2025-08-29,Yekaterinburg,Russia,desktop
+1613,Petr,2025-09-16,Yekaterinburg,Russia,tablet
+1614,Sergey,2025-09-19,Kazan,Russia,mobile_android
+1615,Yulia,2025-01-05,Novosibirsk,Russia,tablet
+1616,Maria,2025-09-18,Moscow,Russia,desktop
+1617,Ivan,2025-02-23,Samara,Russia,mobile_android
+1618,Natalia,2025-02-16,Kazan,Russia,desktop
+1619,Dmitry,2025-08-03,Novosibirsk,Russia,mobile_android
+1620,Dmitry,2025-06-26,Rostov-on-Don,Russia,mobile_ios
+1621,Ivan,2025-01-09,Chelyabinsk,Russia,mobile_android
+1622,Yulia,2025-04-09,Chelyabinsk,Russia,tablet
+1623,Petr,2025-01-20,Moscow,Russia,mobile_android
+1624,Maria,2025-08-29,Omsk,Russia,desktop
+1625,Artem,2025-03-02,Saint Petersburg,Russia,desktop
+1626,Dmitry,2025-06-27,Kazan,Russia,mobile_android
+1627,Maria,2025-12-04,Kazan,Russia,tablet
+1628,Dmitry,2025-03-03,Samara,Russia,mobile_ios
+1629,Sergey,2025-05-25,Samara,Russia,tablet
+1630,Petr,2025-08-04,Chelyabinsk,Russia,mobile_ios
+1631,Sergey,2025-01-03,Chelyabinsk,Russia,desktop
+1632,Dmitry,2025-06-09,Nizhny Novgorod,Russia,tablet
+1633,Natalia,2025-08-15,Nizhny Novgorod,Russia,mobile_ios
+1634,Natalia,2025-09-26,Omsk,Russia,mobile_android
+1635,Sergey,2025-04-30,Nizhny Novgorod,Russia,desktop
+1636,Natalia,2025-03-30,Saint Petersburg,Russia,mobile_android
+1637,Dmitry,2025-11-25,Saint Petersburg,Russia,desktop
+1638,Ivan,2025-03-09,Kazan,Russia,tablet
+1639,Sergey,2025-12-23,Yekaterinburg,Russia,tablet
+1640,Artem,2025-04-08,Saint Petersburg,Russia,desktop
+1641,Artem,2025-09-24,Novosibirsk,Russia,desktop
+1642,Anna,2025-04-15,Chelyabinsk,Russia,desktop
+1643,Yulia,2025-11-19,Samara,Russia,tablet
+1644,Petr,2025-05-03,Nizhny Novgorod,Russia,mobile_ios
+1645,Natalia,2025-01-29,Kazan,Russia,mobile_android
+1646,Natalia,2025-05-17,Moscow,Russia,mobile_android
+1647,Yulia,2025-07-14,Samara,Russia,tablet
+1648,Alex,2025-08-14,Novosibirsk,Russia,mobile_android
+1649,Elena,2025-11-28,Nizhny Novgorod,Russia,desktop
+1650,Sergey,2025-06-19,Novosibirsk,Russia,mobile_ios
+1651,Olga,2025-01-09,Chelyabinsk,Russia,mobile_android
+1652,Natalia,2025-02-09,Chelyabinsk,Russia,mobile_ios
+1653,Petr,2025-01-25,Omsk,Russia,desktop
+1654,Anna,2025-09-18,Kazan,Russia,mobile_android
+1655,Artem,2025-08-14,Samara,Russia,tablet
+1656,Natalia,2025-05-04,Rostov-on-Don,Russia,mobile_ios
+1657,Anna,2025-02-07,Rostov-on-Don,Russia,desktop
+1658,Dmitry,2025-11-24,Samara,Russia,mobile_ios
+1659,Dmitry,2025-09-08,Moscow,Russia,mobile_android
+1660,Elena,2025-06-25,Kazan,Russia,mobile_android
+1661,Ivan,2025-03-31,Novosibirsk,Russia,tablet
+1662,Olga,2025-02-06,Moscow,Russia,desktop
+1663,Alex,2025-11-12,Yekaterinburg,Russia,desktop
+1664,Elena,2025-06-25,Samara,Russia,tablet
+1665,Maria,2025-10-11,Novosibirsk,Russia,tablet
+1666,Alex,2025-03-22,Rostov-on-Don,Russia,desktop
+1667,Sergey,2025-04-24,Saint Petersburg,Russia,mobile_ios
+1668,Petr,2025-02-09,Omsk,Russia,mobile_ios
+1669,Maria,2025-10-28,Rostov-on-Don,Russia,tablet
+1670,Maria,2025-08-12,Kazan,Russia,mobile_ios
+1671,Elena,2025-11-14,Chelyabinsk,Russia,desktop
+1672,Yulia,2025-12-15,Saint Petersburg,Russia,mobile_android
+1673,Ivan,2025-04-25,Omsk,Russia,mobile_android
+1674,Yulia,2025-07-05,Omsk,Russia,mobile_ios
+1675,Elena,2025-11-19,Yekaterinburg,Russia,tablet
+1676,Sergey,2025-02-25,Yekaterinburg,Russia,tablet
+1677,Artem,2025-02-09,Nizhny Novgorod,Russia,tablet
+1678,Natalia,2025-12-20,Rostov-on-Don,Russia,tablet
+1679,Natalia,2025-02-09,Rostov-on-Don,Russia,tablet
+1680,Ivan,2025-12-13,Rostov-on-Don,Russia,mobile_ios
+1681,Sergey,2025-08-25,Nizhny Novgorod,Russia,mobile_android
+1682,Ivan,2025-10-16,Moscow,Russia,mobile_android
+1683,Anna,2025-09-19,Omsk,Russia,mobile_ios
+1684,Yulia,2025-08-04,Saint Petersburg,Russia,tablet
+1685,Natalia,2025-05-27,Kazan,Russia,mobile_ios
+1686,Maria,2025-12-02,Omsk,Russia,mobile_android
+1687,Yulia,2025-06-17,Yekaterinburg,Russia,desktop
+1688,Olga,2025-04-02,Novosibirsk,Russia,mobile_ios
+1689,Petr,2025-12-19,Chelyabinsk,Russia,tablet
+1690,Sergey,2025-02-28,Nizhny Novgorod,Russia,mobile_android
+1691,Alex,2025-02-28,Samara,Russia,mobile_android
+1692,Ivan,2025-10-31,Novosibirsk,Russia,mobile_android
+1693,Yulia,2025-06-18,Kazan,Russia,mobile_android
+1694,Petr,2025-09-26,Rostov-on-Don,Russia,tablet
+1695,Yulia,2025-12-29,Yekaterinburg,Russia,desktop
+1696,Alex,2025-02-14,Yekaterinburg,Russia,mobile_android
+1697,Petr,2025-12-11,Yekaterinburg,Russia,mobile_ios
+1698,Olga,2025-06-30,Rostov-on-Don,Russia,desktop
+1699,Alex,2025-06-19,Samara,Russia,mobile_android
+1700,Elena,2025-12-22,Nizhny Novgorod,Russia,desktop
+1701,Dmitry,2025-07-10,Novosibirsk,Russia,mobile_ios
+1702,Elena,2025-06-04,Rostov-on-Don,Russia,mobile_android
+1703,Natalia,2025-07-07,Kazan,Russia,mobile_ios
+1704,Yulia,2025-01-07,Nizhny Novgorod,Russia,tablet
+1705,Dmitry,2025-05-13,Kazan,Russia,mobile_android
+1706,Elena,2025-08-23,Nizhny Novgorod,Russia,mobile_android
+1707,Dmitry,2025-02-14,Samara,Russia,mobile_android
+1708,Artem,2025-11-10,Chelyabinsk,Russia,mobile_android
+1709,Yulia,2025-09-06,Kazan,Russia,tablet
+1710,Dmitry,2025-01-31,Rostov-on-Don,Russia,mobile_android
+1711,Maria,2025-01-23,Nizhny Novgorod,Russia,desktop
+1712,Ivan,2025-06-09,Yekaterinburg,Russia,mobile_android
+1713,Ivan,2025-12-29,Omsk,Russia,tablet
+1714,Maria,2025-06-07,Yekaterinburg,Russia,mobile_android
+1715,Petr,2025-02-08,Moscow,Russia,desktop
+1716,Anna,2025-03-23,Chelyabinsk,Russia,tablet
+1717,Petr,2025-12-22,Chelyabinsk,Russia,tablet
+1718,Alex,2025-09-15,Yekaterinburg,Russia,desktop
+1719,Alex,2025-07-25,Novosibirsk,Russia,desktop
+1720,Dmitry,2025-03-18,Samara,Russia,desktop
+1721,Elena,2025-01-12,Kazan,Russia,desktop
+1722,Elena,2025-10-22,Rostov-on-Don,Russia,desktop
+1723,Ivan,2025-08-12,Chelyabinsk,Russia,tablet
+1724,Sergey,2025-01-13,Yekaterinburg,Russia,tablet
+1725,Petr,2025-02-15,Yekaterinburg,Russia,mobile_android
+1726,Artem,2025-06-04,Samara,Russia,mobile_android
+1727,Yulia,2025-04-23,Samara,Russia,mobile_ios
+1728,Natalia,2025-08-21,Saint Petersburg,Russia,mobile_android
+1729,Olga,2025-01-17,Saint Petersburg,Russia,mobile_android
+1730,Elena,2025-12-26,Novosibirsk,Russia,desktop
+1731,Yulia,2025-08-11,Novosibirsk,Russia,desktop
+1732,Olga,2025-12-20,Moscow,Russia,mobile_android
+1733,Yulia,2025-07-07,Novosibirsk,Russia,mobile_ios
+1734,Dmitry,2025-12-10,Nizhny Novgorod,Russia,desktop
+1735,Olga,2025-12-31,Samara,Russia,mobile_android
+1736,Natalia,2025-06-12,Rostov-on-Don,Russia,mobile_android
+1737,Yulia,2025-11-22,Nizhny Novgorod,Russia,tablet
+1738,Maria,2025-03-15,Kazan,Russia,mobile_ios
+1739,Natalia,2025-08-21,Yekaterinburg,Russia,tablet
+1740,Olga,2025-08-12,Novosibirsk,Russia,mobile_ios
+1741,Natalia,2025-11-15,Yekaterinburg,Russia,desktop
+1742,Yulia,2025-03-01,Chelyabinsk,Russia,mobile_ios
+1743,Anna,2025-12-01,Moscow,Russia,mobile_android
+1744,Yulia,2025-08-10,Chelyabinsk,Russia,mobile_android
+1745,Yulia,2025-02-06,Moscow,Russia,mobile_ios
+1746,Dmitry,2025-10-05,Saint Petersburg,Russia,mobile_ios
+1747,Petr,2025-07-15,Yekaterinburg,Russia,mobile_ios
+1748,Maria,2025-12-18,Moscow,Russia,tablet
+1749,Artem,2025-08-30,Omsk,Russia,mobile_ios
+1750,Elena,2025-11-20,Nizhny Novgorod,Russia,desktop
+1751,Alex,2025-08-07,Moscow,Russia,tablet
+1752,Petr,2025-07-11,Moscow,Russia,tablet
+1753,Alex,2025-01-17,Nizhny Novgorod,Russia,mobile_ios
+1754,Dmitry,2025-01-12,Yekaterinburg,Russia,desktop
+1755,Maria,2025-07-12,Yekaterinburg,Russia,tablet
+1756,Yulia,2025-01-22,Nizhny Novgorod,Russia,mobile_android
+1757,Ivan,2025-04-30,Chelyabinsk,Russia,tablet
+1758,Elena,2025-07-29,Omsk,Russia,mobile_ios
+1759,Anna,2025-11-02,Rostov-on-Don,Russia,desktop
+1760,Ivan,2025-09-27,Kazan,Russia,mobile_ios
+1761,Dmitry,2025-07-11,Omsk,Russia,mobile_android
+1762,Petr,2025-06-24,Yekaterinburg,Russia,mobile_android
+1763,Anna,2025-10-12,Rostov-on-Don,Russia,mobile_android
+1764,Natalia,2025-07-23,Saint Petersburg,Russia,mobile_ios
+1765,Olga,2025-06-13,Novosibirsk,Russia,tablet
+1766,Anna,2025-09-08,Moscow,Russia,mobile_ios
+1767,Artem,2025-08-15,Nizhny Novgorod,Russia,desktop
+1768,Dmitry,2025-01-07,Nizhny Novgorod,Russia,tablet
+1769,Sergey,2025-01-29,Moscow,Russia,mobile_android
+1770,Olga,2025-02-02,Novosibirsk,Russia,mobile_ios
+1771,Alex,2025-05-14,Kazan,Russia,mobile_android
+1772,Elena,2025-03-20,Novosibirsk,Russia,mobile_android
+1773,Alex,2025-02-27,Rostov-on-Don,Russia,desktop
+1774,Anna,2025-01-26,Novosibirsk,Russia,tablet
+1775,Alex,2025-08-14,Rostov-on-Don,Russia,desktop
+1776,Artem,2025-10-12,Novosibirsk,Russia,desktop
+1777,Dmitry,2025-01-04,Kazan,Russia,desktop
+1778,Natalia,2025-04-09,Kazan,Russia,mobile_android
+1779,Petr,2025-02-08,Yekaterinburg,Russia,desktop
+1780,Elena,2025-09-28,Moscow,Russia,desktop
+1781,Artem,2025-10-12,Kazan,Russia,tablet
+1782,Artem,2025-06-06,Rostov-on-Don,Russia,tablet
+1783,Alex,2025-03-16,Kazan,Russia,desktop
+1784,Alex,2025-10-15,Yekaterinburg,Russia,tablet
+1785,Anna,2025-05-10,Nizhny Novgorod,Russia,tablet
+1786,Petr,2025-06-24,Rostov-on-Don,Russia,desktop
+1787,Ivan,2025-03-25,Yekaterinburg,Russia,mobile_android
+1788,Alex,2025-01-22,Chelyabinsk,Russia,desktop
+1789,Dmitry,2025-01-27,Chelyabinsk,Russia,tablet
+1790,Sergey,2025-07-14,Saint Petersburg,Russia,mobile_android
+1791,Elena,2025-12-03,Novosibirsk,Russia,mobile_ios
+1792,Yulia,2025-08-24,Moscow,Russia,mobile_android
+1793,Alex,2025-04-02,Samara,Russia,tablet
+1794,Dmitry,2025-01-21,Omsk,Russia,mobile_android
+1795,Dmitry,2025-10-30,Yekaterinburg,Russia,desktop
+1796,Elena,2025-12-23,Nizhny Novgorod,Russia,mobile_ios
+1797,Ivan,2025-03-25,Omsk,Russia,mobile_ios
+1798,Dmitry,2025-09-19,Nizhny Novgorod,Russia,mobile_ios
+1799,Sergey,2025-05-27,Omsk,Russia,tablet
+1800,Dmitry,2025-09-14,Yekaterinburg,Russia,tablet
+1801,Dmitry,2025-02-27,Samara,Russia,mobile_ios
+1802,Dmitry,2025-01-15,Omsk,Russia,mobile_android
+1803,Natalia,2025-06-11,Yekaterinburg,Russia,mobile_ios
+1804,Natalia,2025-06-12,Kazan,Russia,mobile_android
+1805,Ivan,2025-11-16,Samara,Russia,mobile_android
+1806,Alex,2025-10-08,Rostov-on-Don,Russia,tablet
+1807,Dmitry,2025-10-07,Nizhny Novgorod,Russia,mobile_android
+1808,Petr,2025-01-12,Chelyabinsk,Russia,mobile_ios
+1809,Alex,2025-10-01,Novosibirsk,Russia,tablet
+1810,Ivan,2025-09-28,Chelyabinsk,Russia,desktop
+1811,Maria,2025-07-27,Samara,Russia,desktop
+1812,Alex,2025-01-27,Rostov-on-Don,Russia,tablet
+1813,Alex,2025-03-13,Nizhny Novgorod,Russia,mobile_ios
+1814,Olga,2025-03-01,Rostov-on-Don,Russia,desktop
+1815,Anna,2025-05-25,Omsk,Russia,desktop
+1816,Yulia,2025-04-03,Nizhny Novgorod,Russia,mobile_android
+1817,Olga,2025-11-05,Omsk,Russia,mobile_android
+1818,Sergey,2025-01-08,Yekaterinburg,Russia,mobile_ios
+1819,Natalia,2025-03-20,Samara,Russia,tablet
+1820,Natalia,2025-01-27,Yekaterinburg,Russia,mobile_ios
+1821,Anna,2025-06-23,Saint Petersburg,Russia,tablet
+1822,Elena,2025-02-19,Rostov-on-Don,Russia,desktop
+1823,Elena,2025-07-18,Omsk,Russia,mobile_android
+1824,Ivan,2025-12-15,Kazan,Russia,mobile_ios
+1825,Artem,2025-06-30,Yekaterinburg,Russia,mobile_ios
+1826,Anna,2025-01-24,Saint Petersburg,Russia,tablet
+1827,Yulia,2025-11-12,Moscow,Russia,tablet
+1828,Alex,2025-02-15,Chelyabinsk,Russia,mobile_ios
+1829,Elena,2025-01-15,Nizhny Novgorod,Russia,tablet
+1830,Yulia,2025-06-02,Saint Petersburg,Russia,mobile_ios
+1831,Dmitry,2025-08-10,Samara,Russia,mobile_ios
+1832,Artem,2025-07-25,Yekaterinburg,Russia,mobile_ios
+1833,Petr,2025-09-30,Samara,Russia,desktop
+1834,Alex,2025-08-24,Chelyabinsk,Russia,tablet
+1835,Sergey,2025-12-06,Kazan,Russia,mobile_android
+1836,Dmitry,2025-08-16,Rostov-on-Don,Russia,mobile_android
+1837,Dmitry,2025-01-09,Rostov-on-Don,Russia,tablet
+1838,Anna,2025-06-15,Samara,Russia,mobile_ios
+1839,Artem,2025-11-15,Omsk,Russia,mobile_android
+1840,Ivan,2025-08-02,Kazan,Russia,mobile_android
+1841,Sergey,2025-04-27,Rostov-on-Don,Russia,tablet
+1842,Elena,2025-12-10,Kazan,Russia,mobile_android
+1843,Yulia,2025-03-13,Saint Petersburg,Russia,mobile_ios
+1844,Anna,2025-03-05,Kazan,Russia,tablet
+1845,Elena,2025-07-24,Novosibirsk,Russia,mobile_ios
+1846,Anna,2025-07-28,Chelyabinsk,Russia,mobile_android
+1847,Anna,2025-03-13,Rostov-on-Don,Russia,mobile_android
+1848,Anna,2025-10-04,Kazan,Russia,mobile_ios
+1849,Artem,2025-10-01,Samara,Russia,desktop
+1850,Ivan,2025-11-16,Moscow,Russia,mobile_android
+1851,Anna,2025-12-04,Novosibirsk,Russia,desktop
+1852,Maria,2025-04-05,Novosibirsk,Russia,mobile_android
+1853,Petr,2025-06-15,Omsk,Russia,desktop
+1854,Elena,2025-02-01,Kazan,Russia,desktop
+1855,Alex,2025-01-11,Omsk,Russia,desktop
+1856,Olga,2025-10-28,Omsk,Russia,mobile_ios
+1857,Yulia,2025-08-05,Moscow,Russia,desktop
+1858,Sergey,2025-10-16,Saint Petersburg,Russia,desktop
+1859,Natalia,2025-04-12,Kazan,Russia,desktop
+1860,Ivan,2025-09-24,Yekaterinburg,Russia,mobile_android
+1861,Alex,2025-08-02,Rostov-on-Don,Russia,desktop
+1862,Dmitry,2025-06-28,Omsk,Russia,mobile_android
+1863,Maria,2025-03-29,Chelyabinsk,Russia,desktop
+1864,Natalia,2025-02-10,Nizhny Novgorod,Russia,desktop
+1865,Olga,2025-03-17,Chelyabinsk,Russia,mobile_ios
+1866,Alex,2025-02-15,Moscow,Russia,mobile_android
+1867,Natalia,2025-06-09,Moscow,Russia,desktop
+1868,Alex,2025-03-21,Samara,Russia,mobile_android
+1869,Yulia,2025-11-06,Saint Petersburg,Russia,mobile_android
+1870,Maria,2025-03-27,Rostov-on-Don,Russia,tablet
+1871,Olga,2025-04-02,Omsk,Russia,mobile_ios
+1872,Dmitry,2025-05-28,Chelyabinsk,Russia,mobile_ios
+1873,Anna,2025-06-10,Nizhny Novgorod,Russia,mobile_ios
+1874,Elena,2025-07-21,Moscow,Russia,tablet
+1875,Dmitry,2025-08-30,Moscow,Russia,tablet
+1876,Anna,2025-12-19,Saint Petersburg,Russia,mobile_ios
+1877,Artem,2025-01-02,Nizhny Novgorod,Russia,tablet
+1878,Artem,2025-08-13,Nizhny Novgorod,Russia,tablet
+1879,Artem,2025-10-16,Saint Petersburg,Russia,tablet
+1880,Ivan,2025-08-21,Moscow,Russia,mobile_ios
+1881,Petr,2025-03-18,Rostov-on-Don,Russia,mobile_ios
+1882,Sergey,2025-04-26,Kazan,Russia,mobile_ios
+1883,Sergey,2025-06-03,Kazan,Russia,tablet
+1884,Artem,2025-04-13,Saint Petersburg,Russia,mobile_ios
+1885,Elena,2025-07-13,Nizhny Novgorod,Russia,tablet
+1886,Olga,2025-06-15,Omsk,Russia,desktop
+1887,Maria,2025-12-25,Saint Petersburg,Russia,tablet
+1888,Olga,2025-03-31,Rostov-on-Don,Russia,mobile_android
+1889,Maria,2025-06-23,Saint Petersburg,Russia,mobile_ios
+1890,Olga,2025-05-02,Novosibirsk,Russia,mobile_ios
+1891,Petr,2025-05-23,Chelyabinsk,Russia,mobile_android
+1892,Ivan,2025-04-16,Nizhny Novgorod,Russia,tablet
+1893,Ivan,2025-11-01,Samara,Russia,desktop
+1894,Artem,2025-12-26,Samara,Russia,mobile_android
+1895,Anna,2025-11-13,Nizhny Novgorod,Russia,mobile_android
+1896,Natalia,2025-05-03,Rostov-on-Don,Russia,tablet
+1897,Ivan,2025-01-09,Novosibirsk,Russia,mobile_ios
+1898,Ivan,2025-09-19,Novosibirsk,Russia,tablet
+1899,Dmitry,2025-03-14,Moscow,Russia,mobile_android
+1900,Dmitry,2025-12-25,Chelyabinsk,Russia,mobile_android
+1901,Anna,2025-08-11,Kazan,Russia,mobile_ios
+1902,Yulia,2025-02-10,Yekaterinburg,Russia,mobile_ios
+1903,Natalia,2025-07-23,Rostov-on-Don,Russia,mobile_ios
+1904,Elena,2025-09-21,Yekaterinburg,Russia,tablet
+1905,Dmitry,2025-11-24,Yekaterinburg,Russia,mobile_ios
+1906,Elena,2025-06-27,Nizhny Novgorod,Russia,mobile_android
+1907,Alex,2025-12-14,Samara,Russia,mobile_android
+1908,Dmitry,2025-11-14,Samara,Russia,desktop
+1909,Petr,2025-03-25,Kazan,Russia,tablet
+1910,Yulia,2025-11-14,Nizhny Novgorod,Russia,desktop
+1911,Natalia,2025-04-21,Yekaterinburg,Russia,mobile_android
+1912,Anna,2025-09-08,Omsk,Russia,desktop
+1913,Alex,2025-01-07,Samara,Russia,mobile_android
+1914,Natalia,2025-03-25,Rostov-on-Don,Russia,desktop
+1915,Artem,2025-07-27,Rostov-on-Don,Russia,mobile_ios
+1916,Petr,2025-11-10,Moscow,Russia,desktop
+1917,Natalia,2025-01-22,Saint Petersburg,Russia,mobile_ios
+1918,Petr,2025-01-03,Omsk,Russia,mobile_ios
+1919,Petr,2025-05-07,Samara,Russia,tablet
+1920,Elena,2025-10-24,Novosibirsk,Russia,mobile_ios
+1921,Olga,2025-07-07,Samara,Russia,mobile_ios
+1922,Artem,2025-12-28,Moscow,Russia,desktop
+1923,Alex,2025-01-14,Rostov-on-Don,Russia,mobile_android
+1924,Natalia,2025-01-12,Yekaterinburg,Russia,tablet
+1925,Maria,2025-03-28,Novosibirsk,Russia,mobile_ios
+1926,Alex,2025-01-12,Nizhny Novgorod,Russia,tablet
+1927,Olga,2025-01-25,Chelyabinsk,Russia,desktop
+1928,Alex,2025-10-28,Yekaterinburg,Russia,mobile_ios
+1929,Ivan,2025-08-31,Chelyabinsk,Russia,desktop
+1930,Maria,2025-05-02,Omsk,Russia,tablet
+1931,Olga,2025-05-27,Saint Petersburg,Russia,desktop
+1932,Elena,2025-02-24,Novosibirsk,Russia,tablet
+1933,Natalia,2025-08-26,Kazan,Russia,desktop
+1934,Yulia,2025-12-22,Novosibirsk,Russia,tablet
+1935,Sergey,2025-06-22,Samara,Russia,mobile_android
+1936,Olga,2025-08-09,Rostov-on-Don,Russia,desktop
+1937,Anna,2025-04-29,Samara,Russia,desktop
+1938,Natalia,2025-11-05,Samara,Russia,mobile_android
+1939,Artem,2025-07-02,Omsk,Russia,mobile_android
+1940,Olga,2025-10-15,Yekaterinburg,Russia,desktop
+1941,Ivan,2025-11-03,Kazan,Russia,mobile_android
+1942,Sergey,2025-10-27,Kazan,Russia,mobile_ios
+1943,Ivan,2025-03-23,Samara,Russia,tablet
+1944,Sergey,2025-07-30,Chelyabinsk,Russia,tablet
+1945,Artem,2025-05-30,Omsk,Russia,tablet
+1946,Yulia,2025-02-06,Samara,Russia,mobile_ios
+1947,Anna,2025-12-18,Saint Petersburg,Russia,mobile_android
+1948,Natalia,2025-11-08,Rostov-on-Don,Russia,mobile_android
+1949,Elena,2025-12-27,Yekaterinburg,Russia,desktop
+1950,Ivan,2025-02-28,Nizhny Novgorod,Russia,mobile_android
+1951,Ivan,2025-05-11,Saint Petersburg,Russia,desktop
+1952,Petr,2025-07-21,Chelyabinsk,Russia,mobile_ios
+1953,Sergey,2025-08-31,Novosibirsk,Russia,tablet
+1954,Dmitry,2025-02-04,Novosibirsk,Russia,tablet
+1955,Yulia,2025-04-03,Saint Petersburg,Russia,tablet
+1956,Natalia,2025-07-26,Samara,Russia,mobile_android
+1957,Sergey,2025-12-19,Nizhny Novgorod,Russia,desktop
+1958,Petr,2025-11-28,Moscow,Russia,desktop
+1959,Alex,2025-11-01,Moscow,Russia,mobile_ios
+1960,Sergey,2025-12-16,Chelyabinsk,Russia,mobile_android
+1961,Elena,2025-08-01,Samara,Russia,mobile_ios
+1962,Natalia,2025-06-08,Kazan,Russia,desktop
+1963,Yulia,2025-01-24,Kazan,Russia,desktop
+1964,Petr,2025-10-20,Yekaterinburg,Russia,tablet
+1965,Alex,2025-01-04,Nizhny Novgorod,Russia,mobile_android
+1966,Maria,2025-08-08,Nizhny Novgorod,Russia,desktop
+1967,Petr,2025-12-30,Novosibirsk,Russia,tablet
+1968,Maria,2025-01-20,Omsk,Russia,mobile_android
+1969,Natalia,2025-06-01,Chelyabinsk,Russia,mobile_ios
+1970,Ivan,2025-02-19,Moscow,Russia,mobile_android
+1971,Petr,2025-06-26,Chelyabinsk,Russia,mobile_android
+1972,Anna,2025-04-06,Kazan,Russia,desktop
+1973,Maria,2025-04-15,Kazan,Russia,desktop
+1974,Elena,2025-09-07,Saint Petersburg,Russia,mobile_android
+1975,Anna,2025-04-27,Yekaterinburg,Russia,desktop
+1976,Olga,2025-12-20,Nizhny Novgorod,Russia,desktop
+1977,Olga,2025-08-16,Rostov-on-Don,Russia,desktop
+1978,Alex,2025-03-07,Chelyabinsk,Russia,tablet
+1979,Yulia,2025-12-01,Kazan,Russia,tablet
+1980,Ivan,2025-09-19,Omsk,Russia,mobile_android
+1981,Natalia,2025-10-22,Novosibirsk,Russia,desktop
+1982,Petr,2025-08-31,Moscow,Russia,tablet
+1983,Dmitry,2025-07-05,Yekaterinburg,Russia,mobile_android
+1984,Elena,2025-09-03,Omsk,Russia,desktop
+1985,Maria,2025-05-05,Yekaterinburg,Russia,mobile_ios
+1986,Natalia,2025-09-25,Saint Petersburg,Russia,desktop
+1987,Anna,2025-05-11,Rostov-on-Don,Russia,desktop
+1988,Artem,2025-08-25,Kazan,Russia,tablet
+1989,Olga,2025-01-18,Novosibirsk,Russia,mobile_android
+1990,Artem,2025-02-09,Omsk,Russia,mobile_android
+1991,Elena,2025-01-21,Yekaterinburg,Russia,tablet
+1992,Dmitry,2025-08-13,Nizhny Novgorod,Russia,desktop
+1993,Petr,2025-12-21,Saint Petersburg,Russia,mobile_ios
+1994,Alex,2025-10-09,Nizhny Novgorod,Russia,desktop
+1995,Dmitry,2025-01-08,Novosibirsk,Russia,desktop
+1996,Elena,2025-04-10,Omsk,Russia,mobile_ios
+1997,Dmitry,2025-08-28,Saint Petersburg,Russia,tablet
+1998,Elena,2025-03-28,Omsk,Russia,mobile_android
+1999,Elena,2025-10-25,Kazan,Russia,tablet
+2000,Sergey,2025-01-14,Samara,Russia,tablet
