@@ -37,13 +37,13 @@ services:
     image: apache/superset:latest
     container_name: ecommerce_superset
     restart: always
-    # Использование host сети, чтобы контейнер без проблем увидел интернет и ClickHouse
     network_mode: "host"
-    user: "root"
+    user: "root" # Даем root-права, чтобы uv смог записать файлы драйвера в систему
     environment:
       - SUPERSET_SECRET_KEY=super_secret_bi_key_12345
     command: >
       sh -c "
+        uv pip install --system clickhouse-connect &&
         superset db upgrade &&
         superset fab create-admin --username 'admin' --firstname 'Admin' --lastname 'Admin' --email '[email protected]' --password 'admin' &&
         superset init &&
