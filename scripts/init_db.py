@@ -16,8 +16,8 @@ CREATE TABLE products (
     product_id INT PRIMARY KEY,
     product_name VARCHAR(255),
     category VARCHAR(100),
-    cost_price NUMERIC(10, 2),
-    sale_price NUMERIC(10, 2)
+    base_price NUMERIC(10, 2),
+    cost_price NUMERIC(10, 2)
 );
 
 CREATE TABLE users (
