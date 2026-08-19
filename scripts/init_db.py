@@ -7,7 +7,7 @@ engine = create_engine(DATABASE_URL)
 DROP_DDL = """
 DROP TABLE IF EXISTS order_items;
 DROP TABLE IF EXISTS orders;
-DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS clients;
 DROP TABLE IF EXISTS products;
 """
 
@@ -20,9 +20,9 @@ CREATE TABLE products (
     cost_price NUMERIC(10, 2)
 );
 
-CREATE TABLE users (
-    user_id INT PRIMARY KEY,
-    name VARCHAR(255),
+CREATE TABLE clients (
+    client_id INT PRIMARY KEY,
+    client_name VARCHAR(255),
     registration_date TIMESTAMP,
     city VARCHAR(100),
     country VARCHAR(100),
@@ -31,7 +31,7 @@ CREATE TABLE users (
 
 CREATE TABLE orders (
     order_id INT PRIMARY KEY,
-    user_id INT REFERENCES users(user_id),
+    client_id INT REFERENCES clients(client_id),
     date_time TIMESTAMP,
     status VARCHAR(50),
     promocode VARCHAR(50)

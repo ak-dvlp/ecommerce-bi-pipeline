@@ -8,7 +8,7 @@ def run_etl():
     print("⏳ Чтение сырых CSV файлов из папки data/...")
     try:
         df_products = pd.read_csv('data/products.csv')
-        df_users = pd.read_csv('data/users.csv')
+        df_clients = pd.read_csv('data/clients.csv')
         df_orders = pd.read_csv('data/orders.csv')
         df_order_items = pd.read_csv('data/order_items.csv')
     except FileNotFoundError as e:
@@ -18,17 +18,20 @@ def run_etl():
 
     print("⏳ Предварительная обработка данных в Pandas...")
     # Приведение типов дат к формату datetime для корректной записи в TIMESTAMP базы
-    df_users['registration_date'] = pd.to_datetime(df_users['registration_date'])
+    df_clients['registration_date'] = pd.to_datetime(df_clients['registration_date'])
     df_orders['date_time'] = pd.to_datetime(df_orders['date_time'])
     
     # Обработка пустых промокодов (замена NaN на понятную строку)
     df_orders['promocode'] = df_orders['promocode'].fillna('БЕЗ_ПРОМО')
 
+    # Вычисление себестоимости товаров
+    df_products['cost_price'] = (df_products['base_price'] * 0.7).round(2)
+
     print("⏳ Загрузка данных в PostgreSQL...")
     try:
         # !Порядок загрузки важен из-за связей (сначала справочники, потом транзакции)
         df_products.to_sql('products', con=engine, if_exists='append', index=False)
-        df_users.to_sql('users', con=engine, if_exists='append', index=False)
+        df_clients.to_sql('clients', con=engine, if_exists='append', index=False)
         df_orders.to_sql('orders', con=engine, if_exists='append', index=False)
         df_order_items.to_sql('order_items', con=engine, if_exists='append', index=False)
         

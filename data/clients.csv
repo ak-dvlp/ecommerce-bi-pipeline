@@ -1,4 +1,4 @@
-user_id,name,registration_date,city,country,device
+client_id,client_name,registration_date,city,country,device
 1001,Sergey,2025-04-22,Saint Petersburg,Russia,mobile_ios
 1002,Maria,2025-01-04,Chelyabinsk,Russia,mobile_ios
 1003,Artem,2025-12-16,Kazan,Russia,mobile_android

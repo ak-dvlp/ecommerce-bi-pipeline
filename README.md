@@ -4,4 +4,4 @@
 
 ### 🗺️ Планируемый конвейер данных:
 
-### Сырые CSV ➡️ Python Pandas (ETL) ➡️ PostgreSQL (OLTP) ➡️ ClickHouse (OLAP) ➡️ Power BI (Аналитическая панель)
+### Сырые CSV ➡️ Python Pandas (ETL) ➡️ PostgreSQL (OLTP) ➡️ ClickHouse (OLAP) ➡️ Power BI (Аналитическая панель).
