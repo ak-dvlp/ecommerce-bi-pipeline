@@ -19,8 +19,8 @@ services:
     container_name: ecommerce_clickhouse
     restart: always
     ports:
-      - "8123:8123" # HTTP интерфейс (для Python/Power BI)
-      - "9000:9000" # Native интерфейс
+      - "8123:8123"
+      - "9000:9000"
     environment:
       CLICKHOUSE_DB: ecommerce_olap
       CLICKHOUSE_USER: bi_user
@@ -32,6 +32,29 @@ services:
         soft: 262144
         hard: 262144
 
+  # Визуализация данных (BI-слой)
+  superset:
+    image: apache/superset:latest
+    container_name: ecommerce_superset
+    restart: always
+    # Использование host сети, чтобы контейнер без проблем увидел интернет и ClickHouse
+    network_mode: "host"
+    user: "root"
+    environment:
+      - SUPERSET_SECRET_KEY=super_secret_bi_key_12345
+    command: >
+      sh -c "
+        superset db upgrade &&
+        superset fab create-admin --username 'admin' --firstname 'Admin' --lastname 'Admin' --email '[email protected]' --password 'admin' &&
+        superset init &&
+        superset run -p 8088 -h 0.0.0.0 --with-threads
+      "
+    volumes:
+      - superset_home:/app/superset_home
+    depends_on:
+      - clickhouse
+
 volumes:
   pgdata:
   chdata:
+  superset_home:
