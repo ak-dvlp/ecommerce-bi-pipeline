@@ -17,7 +17,7 @@ cd ecommerce-bi-pipeline
 
 #### Создание виртуального окружения для работы скриптов папки `scripts`
 
-Для успешного выполнения дальнейших шагов в вашей системе должен быть установлен `Poetry`.
+Для успешного выполнения дальнейших шагов в вашей системе должен быть установлен `Poetry`. После установки `Poetry`, выполните установку пакетов командой:
 
 ```bash
 poetry install
@@ -72,7 +72,7 @@ sudo usermod -aG docker $USER
 newgrp docker
 ```
 
-Проверьте ваше членство в группе `docker`:
+Проверка вашего членства в группе `docker`:
 
 ```bash
 id $USER
@@ -146,4 +146,5 @@ poetry run python scripts/etl_to_clickhouse.py
 
 #### Настройка Apache Superset в веб клиенте
 
-Перейдите по адресу: http://localhost:8080
+
+Перейдите по адресу: http://localhost:8088
