@@ -183,24 +183,19 @@ Password: `bi_password`
 
 <img width="1111" height="317" alt="image" src="https://github.com/user-attachments/assets/e031fe97-8e46-4507-98a2-23e6d4b04a96" />
 
-Выполните какой-либо запрос, например:
+Выполните запрос:
 
 ```sql
-SELECT
-    category,
-    COUNT(*) AS total
-FROM
-    ecommerce_olap.f_sales
-GROUP BY
-    category
-ORDER BY
-    total DESC,
-    category;
+SELECT * FROM ecommerce_olap.f_sales;
 ```
 
 Нажмите на кнопку `Run selection`
 
-<img width="2547" height="1388" alt="image" src="https://github.com/user-attachments/assets/124e58f1-6f81-4d67-a53a-0f35afc53431" />
+<img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/e44cb729-c5b5-474f-98e1-d02a661bb067" />  
+<img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/8a4270e2-d67d-482d-b5b8-71442592b4e8" />  
+<img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/1fe5b142-0463-4f5e-9973-d05f5fe41886" />
+
+
 
 #### Работа с данными через ClickHouse
 
@@ -234,7 +229,7 @@ LIMIT 10;
 
 
 ## Заключение
-Дальнейшая работа с `Apache Superset` выходит за рамка данного проекта.  
+Дальнейшая работа с `Apache Superset` выходит за рамки данного проекта.  
 
 <img width="2547" height="1388" alt="image" src="https://github.com/user-attachments/assets/49887bfb-6a5e-4a3b-8175-5eef4f332852" />
 
