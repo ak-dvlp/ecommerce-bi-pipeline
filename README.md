@@ -154,7 +154,7 @@ poetry run python scripts/etl_to_clickhouse.py
 
 Откройте выпадающее меню нажав в верхнем правом углу на иконку (+). Затем нажмите: `Data` => `Connect Database`.
 
-<img width="713" height="471" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" height="350" />
+<img width="756" height="500" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" height="350" />
 
 Шаг 1. В выпадающем меню поля выбора `Supported databases` выберите `ClickHouse`. Отсутствие данного пункта может означает неудачную установку драйверов базы данных.
 
@@ -168,8 +168,8 @@ Password: `bi_password`
 
 Нажмите кнопку `Connect`.  
 
-<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/abc4687e-e72a-4bab-99c6-aa301767d91e" height="350" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/abc4687e-e72a-4bab-99c6-aa301767d91e" height="350" />
 
 Шаг 3. Нажмите кнопку `Finish`  
 
-<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" height="350" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" height="350" />  
