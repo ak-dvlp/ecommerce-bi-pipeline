@@ -179,14 +179,6 @@ Password: `bi_password`
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />
 
-Нажмите на `Select database or type to search data...`
-
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c8144f58-724e-4935-886e-beda62f3c11a" />
-
-Выберите в форме `clickhousedb` и схему `default`, нажмите кнопку `Select`:
-
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/549b9b24-7917-4033-bdc7-0e5a18ed8644" />
-
 Нажмите на вкладку `Add a new tab`
 
 <img width="1111" height="317" alt="image" src="https://github.com/user-attachments/assets/e031fe97-8e46-4507-98a2-23e6d4b04a96" />
