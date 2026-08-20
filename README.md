@@ -146,13 +146,12 @@ poetry run python scripts/etl_to_clickhouse.py
 
 #### Настройка Apache Superset в веб клиенте
 
-
 Перейдите по адресу: http://localhost:8088  
 Введите имя пользователя `admin` и пароль `admin`
 
-<img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" />  
+<img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" />
 
-Откройте выпадающее меню нажав в верхнем правом углу на иконку (+). Затем нажмите: `Data` => `Connect Database`.
+Откройте выпадающее меню нажав в верхнем правом углу навигационного меню на иконку `+`. Затем нажмите: `Data` => `Connect Database`.
 
 <img width="756" height="500" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" height="350" />
 
@@ -164,12 +163,16 @@ poetry run python scripts/etl_to_clickhouse.py
 Host: `127.0.0.1`  
 Port: `8123`  
 UserName: `bi_user`  
-Password: `bi_password`  
+Password: `bi_password`
 
-Нажмите кнопку `Connect`.  
+Нажмите кнопку `Connect`.
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/abc4687e-e72a-4bab-99c6-aa301767d91e" height="350" />
 
-Шаг 3. Нажмите кнопку `Finish`  
+Шаг 3. Нажмите кнопку `Finish`
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" height="350" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" height="350" />
+
+#### Проверка наличия денормализованной таблицы
+
+В верхнем левом углу навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.
