@@ -200,9 +200,7 @@ ORDER BY
 
 Нажмите на кнопку `Run selection`
 
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/4a008881-37ac-48a1-98ac-7fbea7cfbeab" />  
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/9577a59d-183b-49a4-b184-5b0c96e8dc11" />  
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />
+<img width="2547" height="1388" alt="image" src="https://github.com/user-attachments/assets/124e58f1-6f81-4d67-a53a-0f35afc53431" />
 
 #### Работа с данными через ClickHouse
 
@@ -232,7 +230,8 @@ LIMIT 10;
 
 Нажмите на кнопку `Run`.
 
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/664f72ed-cdca-4d85-84e7-140ab32b37b4" />  
+<img width="2556" height="1403" alt="image" src="https://github.com/user-attachments/assets/595cf66c-103a-4504-9d66-5caac90127e6" />
+
 
 ## Заключение
 Дальнейшая работа с `Apache Superset` выходит за рамка данного проекта.  
