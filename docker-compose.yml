@@ -45,7 +45,7 @@ services:
     restart: always
     entrypoint: >
       sh -c "
-        echo 'Installing dependencies...' &&
+        echo '⏳ Установка зависимостей...' &&
         /app/.venv/bin/python -m ensurepip --upgrade &&
         /app/.venv/bin/python -m pip install --no-cache-dir clickhouse-connect &&
         echo '⏳ Ожидание запуска Superset...' &&
