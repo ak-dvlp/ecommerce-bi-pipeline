@@ -191,7 +191,7 @@ SELECT * FROM ecommerce_olap.f_sales;
 
 Нажмите на кнопку `Run selection`
 
-<img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/e44cb729-c5b5-474f-98e1-d02a661bb067" />  
+<img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/2b99ccae-f919-44ff-9f93-3331c7259634" />  
 <img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/8a4270e2-d67d-482d-b5b8-71442592b4e8" />  
 <img width="2559" height="1411" alt="image" src="https://github.com/user-attachments/assets/1fe5b142-0463-4f5e-9973-d05f5fe41886" />
 
