@@ -150,15 +150,15 @@ poetry run python scripts/etl_to_clickhouse.py
 Перейдите по адресу: http://localhost:8088  
 Введите имя пользователя `admin` и пароль `admin`
 
-<img width="1637" height="913" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" />  
+<img width="1637" height="913" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" height="350" />  
 
 Откройте выпадающее меню нажав в верхнем правом углу на иконку (+). Затем нажмите: `Data` => `Connect Database`.
 
-<img width="713" height="471" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" />
+<img width="713" height="471" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" height="350" />
 
 Шаг 1. В выпадающем меню поля выбора `Supported databases` выберите `ClickHouse`. Отсутствие данного пункта может означает неудачную установку драйверов базы данных.
 
-<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/78d23ac0-167c-461e-9a9f-d0e742bf2e74" />
+<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/78d23ac0-167c-461e-9a9f-d0e742bf2e74" height="350" />
 
 Шаг 2. Заполните форму:  
 Host: `127.0.0.1`  
@@ -168,8 +168,8 @@ Password: `bi_password`
 
 Нажмите кнопку `Connect`.  
 
-<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/abc4687e-e72a-4bab-99c6-aa301767d91e" />
+<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/abc4687e-e72a-4bab-99c6-aa301767d91e" height="350" />
 
 Шаг 3. Нажмите кнопку `Finish`  
 
-<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" />  
+<img width="775" height="1291" alt="image" src="https://github.com/user-attachments/assets/0daada9b-b28e-4f9a-9da5-b78dcb92d99b" height="350" />  
