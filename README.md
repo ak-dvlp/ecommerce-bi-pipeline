@@ -134,14 +134,12 @@ poetry run python scripts/init_db.py
 
 ```bash
 poetry run python scripts/etl_postgres.py
-
 ```
 
 Выполните команду запуска ETL-скрипта для `ClickHouse`:
 
 ```bash
 poetry run python scripts/etl_to_clickhouse.py
-
 ```
 
 #### Настройка Apache Superset в веб клиенте
@@ -183,31 +181,53 @@ Password: `bi_password`
 
 <img width="1111" height="317" alt="image" src="https://github.com/user-attachments/assets/e031fe97-8e46-4507-98a2-23e6d4b04a96" />
 
-Выполните какой-либо запрос вроде:
+Выполните какой-либо запрос, например:
 
 ```sql
-SELECT * FROM ecommerce_olap.f_sales LIMIT 100;
+SELECT
+    category,
+    COUNT(*) AS total
+FROM
+    ecommerce_olap.f_sales
+GROUP BY
+    category
+ORDER BY
+    total DESC,
+    category;
 ```
 
 Нажмите на кнопку `Run selection`
 
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/4a008881-37ac-48a1-98ac-7fbea7cfbeab" />  
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/9577a59d-183b-49a4-b184-5b0c96e8dc11" />  
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />  
+<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />
 
-#### Работа с данными через ClickHouse  
-Перейдите по адресу: [http://localhost:8123/play](http://localhost:8123/play)  
+#### Работа с данными через ClickHouse
+
+Перейдите по адресу: [http://localhost:8123/play](http://localhost:8123/play)
 
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/417d0034-b9ee-49de-a9bb-ffa1a53c0d51" />
 
-Заполните поля `user` и `password` значениями `bi_user` и `bi_password` соответственно (если поля скрыты, нажмите на иконку ключ).  
+Заполните поля `user` и `password` значениями `bi_user` и `bi_password` соответственно (если поля скрыты, нажмите на иконку ключ).
 
-Выполните какой-либо запрос вроде:
+Выполните какой-либо запрос, например:
 
 ```sql
-SELECT * FROM ecommerce_olap.f_sales LIMIT 100;
+SELECT
+    event_time,
+    query_duration_ms,
+    read_rows,
+    result_rows,
+    projections,
+    substring(query, 1, 150) AS sql_preview
+FROM system.query_log
+WHERE user = 'bi_user'
+  AND type = 'QueryFinish'
+  AND query LIKE 'SELECT%'
+ORDER BY query_duration_ms DESC
+LIMIT 10;
 ```
-Нажмите на кнопку `Run`.  
+
+Нажмите на кнопку `Run`.
 
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/664f72ed-cdca-4d85-84e7-140ab32b37b4" />
-
