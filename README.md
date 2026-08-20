@@ -146,7 +146,7 @@ poetry run python scripts/etl_to_clickhouse.py
 
 #### Настройка Apache Superset в веб клиенте
 
-Перейдите по адресу: http://localhost:8088  
+Перейдите по адресу: [http://localhost:8088](http://localhost:8088)
 Введите имя пользователя `admin` и пароль `admin`
 
 <img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" />
@@ -193,4 +193,21 @@ SELECT * FROM ecommerce_olap.f_sales LIMIT 100;
 
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/4a008881-37ac-48a1-98ac-7fbea7cfbeab" />  
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/9577a59d-183b-49a4-b184-5b0c96e8dc11" />  
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />
+<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />  
+
+#### Работа с данными через ClickHouse  
+Перейдите по адресу: [http://localhost:8123/play](http://localhost:8123/play)  
+
+<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/417d0034-b9ee-49de-a9bb-ffa1a53c0d51" />
+
+Заполните поля `user` и `password` значениями `bi_user` и `bi_password` соответственно (если поля скрыты, нажмите на иконку ключ).  
+
+Выполните какой-либо запрос вроде:
+
+```sql
+SELECT * FROM ecommerce_olap.f_sales LIMIT 100;
+```
+Нажмите на кнопку `Run`.  
+
+<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/664f72ed-cdca-4d85-84e7-140ab32b37b4" />
+
