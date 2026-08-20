@@ -177,7 +177,7 @@ Password: `bi_password`
 
 В верхнем левом углу навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />
+<img width="1154" height="632" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />
 
 Нажмите на вкладку `Add a new tab`
 
