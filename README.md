@@ -237,5 +237,6 @@ LIMIT 10;
 ## Заключение
 Дальнейшая работа с `Apache Superset` выходит за рамка данного проекта.  
 
-<img width="2554" height="1048" alt="image" src="https://github.com/user-attachments/assets/35ac5fa6-585d-42cc-9172-3bd5cb5da67f" />
+<img width="2547" height="1388" alt="image" src="https://github.com/user-attachments/assets/49887bfb-6a5e-4a3b-8175-5eef4f332852" />
+
 
