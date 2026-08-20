@@ -1,7 +1,7 @@
 import sys
 from sqlalchemy import create_engine, text
 
-DATABASE_URL = "postgresql://bi_user:bi_password@localhost:5432/ecommerce_db"
+DATABASE_URL = "postgresql://bi_user:bi_password@localhost:5433/ecommerce_db"
 engine = create_engine(DATABASE_URL)
 
 DROP_DDL = """

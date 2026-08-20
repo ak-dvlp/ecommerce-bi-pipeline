@@ -9,7 +9,7 @@ services:
       POSTGRES_PASSWORD: bi_password
       POSTGRES_DB: ecommerce_db
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
 
@@ -35,24 +35,30 @@ services:
   # Визуализация данных (BI-слой)
   superset:
     image: apache/superset:latest
-    container_name: ecommerce_superset
-    restart: always
-    network_mode: "host"
-    user: "root" # Даем root-права, чтобы uv смог записать файлы драйвера в систему
-    environment:
-      - SUPERSET_SECRET_KEY=super_secret_bi_key_12345
-    command: >
-      sh -c "
-        uv pip install --system clickhouse-connect &&
-        superset db upgrade &&
-        superset fab create-admin --username 'admin' --firstname 'Admin' --lastname 'Admin' --email '[email protected]' --password 'admin' &&
-        superset init &&
-        superset run -p 8088 -h 0.0.0.0 --with-threads
-      "
+    container_name: superset
+    user: "root"
+    network_mode: host # Принудительный доступ хоста к интернету
     volumes:
       - superset_home:/app/superset_home
-    depends_on:
-      - clickhouse
+    environment:
+      - SUPERSET_SECRET_KEY=lakehouse_2026
+    restart: always
+    entrypoint: >
+      sh -c "
+        echo 'Installing dependencies...' &&
+        /app/.venv/bin/python -m ensurepip --upgrade &&
+        /app/.venv/bin/python -m pip install --no-cache-dir clickhouse-connect &&
+        echo '⏳ Ожидание запуска Superset...' &&
+        sleep 10 && 
+        echo '⏳ Обновление базы данных...' &&
+        superset db upgrade &&
+        echo '⏳ Создание пользователя‑администратора...' &&
+        superset fab create-admin --username admin --firstname Admin --lastname User --email admin@local.com --password admin || true &&
+        echo '⏳ Инициализация Superset...' &&
+        superset init &&
+        echo '⏳ Запуск Superset...' &&
+        /usr/bin/run-server.sh --port 8080
+      "
 
 volumes:
   pgdata:

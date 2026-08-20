@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 import clickhouse_connect
 
 # Настройки подключений
-PG_URL = "postgresql://bi_user:bi_password@localhost:5432/ecommerce_db"
+PG_URL = "postgresql://bi_user:bi_password@localhost:5433/ecommerce_db"
 pg_engine = create_engine(PG_URL)
 
 print("⏳ Чтение данных из PostgreSQL...")

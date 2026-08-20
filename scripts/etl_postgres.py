@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-DATABASE_URL = "postgresql://bi_user:bi_password@localhost:5432/ecommerce_db"
+DATABASE_URL = "postgresql://bi_user:bi_password@localhost:5433/ecommerce_db"
 engine = create_engine(DATABASE_URL)
 
 def run_etl():
