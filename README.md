@@ -175,35 +175,30 @@ Password: `bi_password`
 
 #### Проверка наличия денормализованной таблицы
 
-В верхнем левом углу навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.  
+В верхнем левом углу навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />
 
-Нажмите на `Select database or type to search data...`  
+Нажмите на `Select database or type to search data...`
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c8144f58-724e-4935-886e-beda62f3c11a" />  
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c8144f58-724e-4935-886e-beda62f3c11a" />
 
-Выберите в форме `clickhousedb` и схему `default`, нажмите кнопку `Select`:  
+Выберите в форме `clickhousedb` и схему `default`, нажмите кнопку `Select`:
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/549b9b24-7917-4033-bdc7-0e5a18ed8644" />
 
-Нажмите на вкладку `Add a new tab`  
+Нажмите на вкладку `Add a new tab`
 
-<img width="1111" height="317" alt="image" src="https://github.com/user-attachments/assets/e031fe97-8e46-4507-98a2-23e6d4b04a96" />  
+<img width="1111" height="317" alt="image" src="https://github.com/user-attachments/assets/e031fe97-8e46-4507-98a2-23e6d4b04a96" />
 
-Выполните какой-либо запрос вроде:  
+Выполните какой-либо запрос вроде:
 
 ```sql
 SELECT * FROM ecommerce_olap.f_sales LIMIT 100;
 ```
+
 Нажмите на кнопку `Run selection`
 
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/4a008881-37ac-48a1-98ac-7fbea7cfbeab" />  
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/9577a59d-183b-49a4-b184-5b0c96e8dc11" />  
 <img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/bc3414d0-aa88-4b62-9aa2-eccafed987c4" />
-
-
-
-
-
-
