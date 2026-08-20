@@ -1,6 +1,8 @@
 # ecommerce-bi-pipeline
 
-#### Учебный проект по продуктовой и торговой аналитике интернет-магазина.
+#### Инженерный проект по проектированию и настройке отказоустойчивой инфраструктуры сбора, преобразования и визуализации данных для интернет-магазина. 
+
+Основная цель проекта — построение полноценного конвейера данных (Data Pipeline) по классической Enterprise-архитектуре, обеспечивающего разделение операционной (OLTP) и аналитической (OLAP) нагрузки.
 
 #### 🗺️ Конвейер данных:
 
@@ -230,4 +232,10 @@ LIMIT 10;
 
 Нажмите на кнопку `Run`.
 
-<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/664f72ed-cdca-4d85-84e7-140ab32b37b4" />
+<img width="2551" height="1398" alt="image" src="https://github.com/user-attachments/assets/664f72ed-cdca-4d85-84e7-140ab32b37b4" />  
+
+## Заключение
+Дальнейшая работа с `Apache Superset` выходит за рамка данного проекта.  
+
+<img width="2554" height="1048" alt="image" src="https://github.com/user-attachments/assets/35ac5fa6-585d-42cc-9172-3bd5cb5da67f" />
+
