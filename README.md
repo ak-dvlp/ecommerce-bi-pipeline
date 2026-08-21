@@ -151,7 +151,7 @@ poetry run python scripts/etl_to_clickhouse.py
 
 <img width="897" height="500" alt="image" src="https://github.com/user-attachments/assets/bfeb68db-bc71-46ed-8036-d66f33b99f60" />
 
-Откройте выпадающее меню нажав в верхнем правом углу навигационного меню на иконку `+`. Затем нажмите: `Data` => `Connect Database`.
+Откройте выпадающее меню нажав в правой части навигационного меню на иконку `+`. Затем нажмите: `Data` => `Connect Database`.
 
 <img width="756" height="500" alt="image" src="https://github.com/user-attachments/assets/0167034d-25a5-43f6-899a-b76e6811bae3" height="350" />
 
@@ -175,7 +175,7 @@ Password: `bi_password`
 
 #### Проверка наличия денормализованной таблицы
 
-В верхнем левом углу навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.
+В левой части навигационного меню нажмите на `SQL`. В выпадающем меню выберите пункт `SQL Lab`.
 
 <img width="1154" height="632" alt="image" src="https://github.com/user-attachments/assets/a652ee7b-0474-4e94-a18e-f92db2bee9ed" />
 
