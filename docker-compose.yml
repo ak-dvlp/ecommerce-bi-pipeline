@@ -42,9 +42,12 @@ services:
       - superset_home:/app/superset_home
     environment:
       - SUPERSET_SECRET_KEY=lakehouse_2026
+      - SUPERSET_CONFIG_PATH=/app/superset_config.py
     restart: always
     entrypoint: >
       sh -c "
+        echo '⏳ Создание конфигурации локализации...' &&
+        printf \"LANGUAGES = {\n    'en': {'flag': 'us', 'name': 'English'},\n    'ru': {'flag': 'ru', 'name': 'Russian'}\n}\nBABEL_DEFAULT_LOCALE = 'ru'\nBABEL_DEFAULT_TIMEZONE = 'Europe/Moscow'\n\nD3_TIME_FORMAT = {\n    'dateTime': '%%A, %%e %%B %%Y г., %%X',\n    'date': '%%d.%%m.%%Y',\n    'time': '%%H:%%M:%%S',\n    'periods': ['AM', 'PM'],\n    'days': ['воскресенье', 'понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота'],\n    'shortDays': ['вс', 'пн', 'вт', 'ср', 'чт', 'пт', 'сб'],\n    'months': ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'],\n    'shortMonths': ['янв', 'фев', 'мар', 'апр', 'май', 'июн', 'июл', 'авг', 'сен', 'окт', 'ноя', 'дек']\n}\n\" > /app/superset_config.py &&
         echo '⏳ Установка зависимостей...' &&
         /app/.venv/bin/python -m ensurepip --upgrade &&
         /app/.venv/bin/python -m pip install --no-cache-dir clickhouse-connect &&
