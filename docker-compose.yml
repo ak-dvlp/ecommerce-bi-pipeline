@@ -3,7 +3,7 @@ services:
   postgres:
     image: postgres:15-alpine
     container_name: ecommerce_postgres
-    restart: always
+    restart: unless-stopped
     environment:
       POSTGRES_USER: bi_user
       POSTGRES_PASSWORD: bi_password
@@ -17,7 +17,7 @@ services:
   clickhouse:
     image: clickhouse/clickhouse-server:latest
     container_name: ecommerce_clickhouse
-    restart: always
+    restart: unless-stopped
     ports:
       - "8123:8123"
       - "9000:9000"
@@ -43,7 +43,7 @@ services:
     environment:
       - SUPERSET_SECRET_KEY=lakehouse_2026
       - SUPERSET_CONFIG_PATH=/app/superset_config.py
-    restart: always
+    restart: unless-stopped
     entrypoint: >
       sh -c "
         echo '⏳ Создание конфигурации локализации...' &&
