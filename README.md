@@ -232,7 +232,8 @@ LIMIT 10;
 
 Инфраструктура готова к созданию графиков и витрин интерактивной аналитики в `Apache Superset`.
 
-<img width="2554" height="1404" alt="image" src="https://github.com/user-attachments/assets/9def381f-a488-47da-83f0-3523e4acf16d" />
+<img width="2549" height="1388" alt="image" src="https://github.com/user-attachments/assets/583d6c4a-ab87-44b2-a133-3410b3cbbbaf" />
+
 
 
 
